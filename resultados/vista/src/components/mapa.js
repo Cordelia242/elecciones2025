@@ -4,8 +4,8 @@ export const crearMapa = (selector) => {
   const container = document.querySelector(selector);
   const map = new maplibregl.Map({
     container: container,
-    center: [-65.482, -17.237],
-    zoom: 5,
+    center: [-65., -16.5],
+    zoom: 5.2,
     scrollZoom: true,
     attributionControl: {
       compact: true,

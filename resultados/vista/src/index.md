@@ -39,9 +39,6 @@ const resultado_global = plotResultado(resultados_globales[vista], {
 ```js
 // Dependencias externas
 import maplibregl from "npm:maplibre-gl";
-import { PMTiles, Protocol } from "npm:pmtiles";
-const protocol = new Protocol();
-maplibregl.addProtocol("pmtiles", protocol.tile);
 ```
 
 ```js
@@ -62,10 +59,11 @@ import { ordenarResultado } from "./components/helpers.js";
 const vistas = {
   validos: {
     colores: {
-      fondo: "#fffffff6",
+      fondo: "#ffffffdd",
       texto_fuerte: "#000",
       texto_suave: "#a0a0a0ff",
       fondo_suave: "#ccc",
+      invert: 0,
     },
     texto: {
       subtitulo:
@@ -90,6 +88,7 @@ const vistas = {
       texto_fuerte: "#fbfbfbff",
       texto_suave: "#e9e9e9ff",
       fondo_suave: "#5a5a5aff",
+      invert: 1,
     },
     texto: {
       subtitulo:
@@ -324,8 +323,8 @@ function plotResultado(resultado, { fontSizeMultiplier = 1 } = {}) {
       src: (d) => partidos[d.opcion].foto,
       dx: -50,
       dy: 5,
-      r: 28,
-      width: 80,
+      r: 30,
+      width: 85,
     });
     return {
       label,
@@ -387,7 +386,7 @@ function plotResultado(resultado, { fontSizeMultiplier = 1 } = {}) {
           y: "opcion",
           text: (d) => d3.format(".2%")(d.porcentaje),
           fill: colores.texto_fuerte,
-          fillOpacity: .7,
+          fillOpacity: 0.7,
           fontSize: 30 * fontSizeMultiplier,
           lineAnchor: "bottom",
           textAnchor: "end",
@@ -400,7 +399,7 @@ function plotResultado(resultado, { fontSizeMultiplier = 1 } = {}) {
           y: "opcion",
           text: (d) => `${d3.format(",")(d.conteo)} votos`,
           fill: colores.texto_fuerte,
-          fillOpacity: .5,
+          fillOpacity: 0.5,
           fontSize: 30 * fontSizeMultiplier,
           lineAnchor: "bottom",
           textAnchor: "start",

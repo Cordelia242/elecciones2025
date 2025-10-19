@@ -171,6 +171,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 3801,25126,112034,124,Italia,57,Lombardía,0,0,3,Milán,1,Milán,Milán,Centro Ricordi,1
 3792,32417,112354,233,Uruguay,49,Montevideo,0,0,1,Montevideo,1,Montevideo,Montevideo,Centro de Formación Permanente de la DGEIP,1
 3792,32417,112364,233,Uruguay,49,Montevideo,0,0,1,Montevideo,1,Montevideo,Montevideo,Centro de Formación Permanente de la DGEIP,2
+2794,202,1000561,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Col. Don Bosco,7
 2794,204,1000581,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Col. Sagrado Corazon,1
 2794,204,1000591,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Col. Sagrado Corazon,2
 2794,204,1000601,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Col. Sagrado Corazon,3
@@ -180,11 +181,15 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2794,536,1002211,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Francisco Cermeño,2
 2794,25577,1002221,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Cristo Rey,1
 2794,25577,1002231,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Cristo Rey,2
+2794,117,1004261,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Esc. San Javier,2
+2794,117,1004351,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Esc. San Javier,11
 2794,506,1007241,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Fundacion Pachamama,2
 2794,506,1007251,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Fundacion Pachamama,3
 2794,506,1007261,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Fundacion Pachamama,4
 2794,506,1007271,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Fundacion Pachamama,5
+2794,229,1007721,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Colegio Domingo Sabio,4
 2794,229,1007761,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Colegio Domingo Sabio,8
+2794,229,1007771,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Colegio Domingo Sabio,9
 2794,229,1007791,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Colegio Domingo Sabio,11
 2794,208,1007991,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Kinder Municipal,3
 2794,208,1008001,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Kinder Municipal,4
@@ -194,3 +199,12 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2794,32389,1008871,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Bicentenario,1
 2794,32389,1008881,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Bicentenario,2
 2794,32388,1009931,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Tambo Aranjuez,1
+2059,147,4007081,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Maria  De Nazareth,6
+2059,147,4007091,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Maria  De Nazareth,7
+2059,147,4007101,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Maria  De Nazareth,8
+2059,147,4007121,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Maria  De Nazareth,10
+2059,147,4007131,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Maria  De Nazareth,11
+2059,122,4009861,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U. Esc. Uru Uru,1
+2059,122,4009871,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U. Esc. Uru Uru,2
+2059,122,4009881,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U. Esc. Uru Uru,3
+2059,122,4009891,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U. Esc. Uru Uru,4

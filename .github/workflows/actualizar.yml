@@ -25,8 +25,8 @@ jobs:
           pip install pandas geopandas requests
       - name: Actualizar
         run: |
-         ./resultados/datos/actualizar.py
-         ./resultados/datos/preparar.py
+         ./resultados/datos/segunda_vuelta/actualizar.py
+         ./resultados/datos/segunda_vuelta/preparar.py
       - name: Commit
         run: |
           git config --global user.email "elecciones2025@example.com"

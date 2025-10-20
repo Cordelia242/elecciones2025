@@ -110,7 +110,7 @@ const vistas = {
     },
     texto: {
       subtitulo:
-        "Participación electoral dentro del país en la primera vuelta de elecciones generales",
+        "Participación electoral",
       descripcion:
         "Cada punto es un recinto cuyo color representa al porcentaje de votos nulos + blancos sobre el total de habilitados y cuyo tamaño al número de votos habilitados"
     },

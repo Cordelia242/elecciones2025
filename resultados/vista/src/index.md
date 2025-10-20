@@ -24,7 +24,7 @@ sidebar: false
   <div class="timestamp">Actualizado el ${formatos.fecha.format(new Date(timestamp))}</div>
   <div class="progreso">Contado al ${formatos.porcentaje(progreso)}</div>
   <div class="cambio_input">${vistaInput}</div>
-  <!-- <div class="descripcion">${v.texto.descripcion}</div> -->
+  <div class="descripcion">${v.texto.descripcion}</div>
   <div class="resultado_global">${resultado_global}</div>
   <div class="fuente">Fuentes: resultados del Sistema de Consolidación Oficial de Resultados de Cómputo y coordenadas del sistema GeoElectoral del Órgano Electoral Plurinacional.</div>
 </div>
@@ -87,7 +87,7 @@ const vistas = {
     texto: {
       subtitulo: "Votos para presidente",
       descripcion:
-        "Votos válidos para presidente en recintos electorales dentro del país, donde el color de cada punto corresponde a la organización política ganadora y el tamaño al número relativo de votos válidos.",
+        "Cada punto es un recinto cuyo color representa a la organización ganadora y cuyo tamaño al número de votos válidos"
     },
     mapa: {
       estilo:
@@ -112,7 +112,7 @@ const vistas = {
       subtitulo:
         "Participación electoral dentro del país en la primera vuelta de elecciones generales",
       descripcion:
-        "Porcentaje de votos nulos y blancos sobre el total de votos habilitados en recintos electorales dentro del país, donde el brillo de cada punto corresponde al porcentaje y el tamaño al número relativo de votos habilitados.",
+        "Cada punto es un recinto cuyo color representa al porcentaje de votos nulos + blancos sobre el total de habilitados y cuyo tamaño al número de votos habilitados"
     },
     mapa: {
       estilo:

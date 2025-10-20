@@ -925,6 +925,8 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 3820,26120,112344,213,Suiza,77,Ginebra,0,0,1,Ginebra,1,Ginebra,Ginebra,Centre Paroissial Protestant Servette-Vieusseux,6
 3792,32417,112354,233,Uruguay,49,Montevideo,0,0,1,Montevideo,1,Montevideo,Montevideo,Centro de Formación Permanente de la DGEIP,1
 3792,32417,112364,233,Uruguay,49,Montevideo,0,0,1,Montevideo,1,Montevideo,Montevideo,Centro de Formación Permanente de la DGEIP,2
+1218,58,1000131,32,BOLIVIA,1,Chuquisaca,3,0,1,Oropeza                                 ,1,Sucre,Punilla,Escuela Punilla,1
+1223,62,1000271,32,BOLIVIA,1,Chuquisaca,3,0,1,Oropeza                                 ,1,Sucre,Potolo,U. Edu. Gualberto Villarroel,4
 2794,509,1000341,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Kinder Gerardo Vaca Guzman,1
 2794,509,1000351,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Kinder Gerardo Vaca Guzman,2
 2794,509,1000361,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Kinder Gerardo Vaca Guzman,3
@@ -957,6 +959,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2794,106,1000671,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Kinder San Vicente De Paul,5
 2794,106,1000681,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Kinder San Vicente De Paul,6
 2794,106,1000691,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Kinder San Vicente De Paul,7
+2794,106,1000701,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Kinder San Vicente De Paul,8
 2794,32390,1000711,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Teresa Bustos de Lemoine,1
 2794,32390,1000721,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Teresa Bustos de Lemoine,2
 2794,32390,1000731,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Teresa Bustos de Lemoine,3
@@ -978,13 +981,17 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2794,115,1000891,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Esc. La Recoleta,12
 2794,115,1000901,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Esc. La Recoleta,13
 2794,115,1000911,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Esc. La Recoleta,14
+2794,101,1000931,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Colegio Junin,2
+2794,101,1000941,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Colegio Junin,3
 2794,124,1000971,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Kinder Echeverria,1
 2794,124,1000981,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Kinder Echeverria,2
 2794,124,1000991,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Kinder Echeverria,3
 2794,124,1001001,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Kinder Echeverria,4
 2794,124,1001011,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Kinder Echeverria,5
+2794,222,1001031,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Col. Cardenal Maurer,2
 2794,222,1001041,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Col. Cardenal Maurer,3
 2794,222,1001061,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Col. Cardenal Maurer,5
+2794,222,1001091,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Col. Cardenal Maurer,8
 2794,515,1001111,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Liceo María Josefa Mujia,1
 2794,515,1001121,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Liceo María Josefa Mujia,2
 2794,515,1001131,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Liceo María Josefa Mujia,3
@@ -1028,6 +1035,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2794,403,1001521,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Esc. Sagrada Familia,22
 2794,403,1001531,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Esc. Sagrada Familia,23
 2794,403,1001541,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Esc. Sagrada Familia,24
+2794,403,1001561,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Esc. Sagrada Familia,26
 2794,504,1001571,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Cristina Aitken de Gutierrez,1
 2794,504,1001581,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Cristina Aitken de Gutierrez,2
 2794,504,1001591,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Cristina Aitken de Gutierrez,3
@@ -1043,7 +1051,11 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2794,231,1001691,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,U.Pedag. Mariscal Sucre,5
 2794,231,1001701,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,U.Pedag. Mariscal Sucre,6
 2794,231,1001711,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,U.Pedag. Mariscal Sucre,7
+2794,516,1001721,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Terminal De Buses,1
+2794,516,1001731,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Terminal De Buses,2
 2794,516,1001741,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Terminal De Buses,3
+2794,516,1001761,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Terminal De Buses,5
+2794,516,1001771,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Terminal De Buses,6
 2794,516,1001781,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Terminal De Buses,7
 2794,516,1001791,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Terminal De Buses,8
 2794,516,1001801,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Terminal De Buses,9
@@ -1116,14 +1128,20 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2794,407,1002521,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Estadium Patria,11
 2794,407,1002531,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Estadium Patria,12
 2794,407,1002551,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Estadium Patria,14
+2794,407,1002561,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Estadium Patria,15
+2794,407,1002581,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Estadium Patria,17
+2794,407,1002591,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Estadium Patria,18
 2794,217,1002611,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Marcelo Quiroga Santa Cruz,2
 2794,217,1002621,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Marcelo Quiroga Santa Cruz,3
+2794,217,1002631,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Marcelo Quiroga Santa Cruz,4
+2794,217,1002651,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Marcelo Quiroga Santa Cruz,6
 2794,217,1002661,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Marcelo Quiroga Santa Cruz,7
 2794,217,1002671,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Marcelo Quiroga Santa Cruz,8
 2794,217,1002681,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Marcelo Quiroga Santa Cruz,9
 2794,217,1002691,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Marcelo Quiroga Santa Cruz,10
 2794,217,1002701,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Marcelo Quiroga Santa Cruz,11
 2794,217,1002711,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Marcelo Quiroga Santa Cruz,12
+2794,217,1002721,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Marcelo Quiroga Santa Cruz,13
 2794,217,1002731,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Marcelo Quiroga Santa Cruz,14
 2794,217,1002741,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Marcelo Quiroga Santa Cruz,15
 2794,217,1002781,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Marcelo Quiroga Santa Cruz,19
@@ -1165,6 +1183,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2794,113,1003141,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Esc. Benjamin Guzman,6
 2794,219,1003151,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Las Americas,1
 2794,219,1003161,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Las Americas,2
+2794,219,1003171,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Las Americas,3
 2794,219,1003181,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Las Americas,4
 2794,219,1003191,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Las Americas,5
 2794,219,1003201,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Las Americas,6
@@ -1177,7 +1196,11 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2794,219,1003281,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Las Americas,14
 2794,219,1003291,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Las Americas,15
 2794,219,1003301,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Las Americas,16
+2794,219,1003311,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Las Americas,17
+2794,219,1003321,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Las Americas,18
 2794,219,1003331,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Las Americas,19
+2794,219,1003341,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Las Americas,20
+2794,219,1003361,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Las Americas,22
 2794,219,1003371,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Las Americas,23
 2794,219,1003381,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Las Americas,24
 2794,219,1003401,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Las Americas,26
@@ -1205,7 +1228,11 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2794,26373,1003621,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Franz Tamayo,6
 2794,26373,1003631,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Franz Tamayo,7
 2794,26373,1003641,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Franz Tamayo,8
+2794,123,1003731,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Esc. San Juanillo,9
+2794,123,1003761,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Esc. San Juanillo,12
 2794,123,1003811,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Esc. San Juanillo,17
+2794,123,1003831,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Esc. San Juanillo,19
+2794,123,1003841,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Esc. San Juanillo,20
 2794,502,1003891,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Seminario Teologico Del Sur,1
 2794,502,1003901,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Seminario Teologico Del Sur,2
 2794,502,1003911,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Seminario Teologico Del Sur,3
@@ -1239,6 +1266,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2794,508,1004191,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,IPTK N Aguirre 560 CERPI,8
 2794,508,1004201,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,IPTK N Aguirre 560 CERPI,9
 2794,508,1004211,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,IPTK N Aguirre 560 CERPI,10
+2794,508,1004221,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,IPTK N Aguirre 560 CERPI,11
 2794,508,1004231,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,IPTK N Aguirre 560 CERPI,12
 2794,508,1004241,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,IPTK N Aguirre 560 CERPI,13
 2794,117,1004251,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Esc. San Javier,1
@@ -1295,12 +1323,18 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2794,513,1004841,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Kinder Serrano,3
 2794,511,1004881,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Salon Mult. Alto Loyola,4
 2794,511,1004891,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Salon Mult. Alto Loyola,5
+2794,511,1004911,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Salon Mult. Alto Loyola,7
 2794,25570,1004921,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Campo Deportivo San Juanillo Bajo,1
 2794,25570,1004931,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Campo Deportivo San Juanillo Bajo,2
 2794,25570,1004941,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Campo Deportivo San Juanillo Bajo,3
 2794,25570,1004961,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Campo Deportivo San Juanillo Bajo,5
 2794,25570,1004971,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Campo Deportivo San Juanillo Bajo,6
+2794,25570,1004981,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Campo Deportivo San Juanillo Bajo,7
+2794,523,1005011,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Coliseo Jorge Revilla Aldana,1
+2794,523,1005021,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Coliseo Jorge Revilla Aldana,2
+2794,523,1005031,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Coliseo Jorge Revilla Aldana,3
 2794,30005,1005071,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Universidad del Valle UNIVALLE,1
+2794,30005,1005091,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Universidad del Valle UNIVALLE,3
 2794,30005,1005101,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Universidad del Valle UNIVALLE,4
 2794,30005,1005111,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Universidad del Valle UNIVALLE,5
 2794,30005,1005121,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Universidad del Valle UNIVALLE,6
@@ -1362,7 +1396,10 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2794,534,1005781,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Escuela Tucsupaya,17
 2794,534,1005791,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Escuela Tucsupaya,18
 2794,534,1005811,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Escuela Tucsupaya,20
+2794,212,1005821,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Esc. Guido Villagomez,1
+2794,212,1005841,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Esc. Guido Villagomez,3
 2794,212,1005851,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Esc. Guido Villagomez,4
+2794,212,1005861,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Esc. Guido Villagomez,5
 2794,212,1005871,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Esc. Guido Villagomez,6
 2794,212,1005881,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Esc. Guido Villagomez,7
 2794,212,1005891,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Esc. Guido Villagomez,8
@@ -1374,8 +1411,11 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2794,212,1005961,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Esc. Guido Villagomez,15
 2794,212,1005981,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Esc. Guido Villagomez,17
 2794,212,1005991,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Esc. Guido Villagomez,18
+2794,212,1006001,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Esc. Guido Villagomez,19
 2794,212,1006011,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Esc. Guido Villagomez,20
+2794,212,1006031,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Esc. Guido Villagomez,22
 2794,212,1006041,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Esc. Guido Villagomez,23
+2794,212,1006051,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Esc. Guido Villagomez,24
 2794,25571,1006061,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Coliseo Los Pinos,1
 2794,25571,1006071,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Coliseo Los Pinos,2
 2794,25571,1006081,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Coliseo Los Pinos,3
@@ -1396,6 +1436,8 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2794,410,1006231,32,BOLIVIA,1,Chuquisaca,3,0,1,Oropeza                                 ,1,Sucre,Sucre,Unid. Educativa Victoria Diez,7
 2794,410,1006241,32,BOLIVIA,1,Chuquisaca,3,0,1,Oropeza                                 ,1,Sucre,Sucre,Unid. Educativa Victoria Diez,8
 2794,410,1006271,32,BOLIVIA,1,Chuquisaca,3,0,1,Oropeza                                 ,1,Sucre,Sucre,Unid. Educativa Victoria Diez,11
+2794,410,1006281,32,BOLIVIA,1,Chuquisaca,3,0,1,Oropeza                                 ,1,Sucre,Sucre,Unid. Educativa Victoria Diez,12
+2794,410,1006291,32,BOLIVIA,1,Chuquisaca,3,0,1,Oropeza                                 ,1,Sucre,Sucre,Unid. Educativa Victoria Diez,13
 2794,410,1006311,32,BOLIVIA,1,Chuquisaca,3,0,1,Oropeza                                 ,1,Sucre,Sucre,Unid. Educativa Victoria Diez,15
 2794,410,1006321,32,BOLIVIA,1,Chuquisaca,3,0,1,Oropeza                                 ,1,Sucre,Sucre,Unid. Educativa Victoria Diez,16
 2794,410,1006331,32,BOLIVIA,1,Chuquisaca,3,0,1,Oropeza                                 ,1,Sucre,Sucre,Unid. Educativa Victoria Diez,17
@@ -1418,6 +1460,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2794,32162,1006521,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Centro Recreacional La Esperanza,2
 2794,32162,1006531,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Centro Recreacional La Esperanza,3
 2794,32162,1006541,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Centro Recreacional La Esperanza,4
+2794,25329,1006751,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Gastón Vilar Casso,21
 2794,228,1006761,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Colegio Fe y Alegria,1
 2794,228,1006771,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Colegio Fe y Alegria,2
 2794,228,1006781,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Colegio Fe y Alegria,3
@@ -1544,10 +1587,14 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2794,25568,1008101,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. San Roque Nivel Inicial,6
 2794,25568,1008111,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. San Roque Nivel Inicial,7
 2794,211,1008121,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Esc. Aniceto Arce,1
+2794,211,1008191,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Esc. Aniceto Arce,8
 2794,211,1008201,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Esc. Aniceto Arce,9
 2794,211,1008221,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Esc. Aniceto Arce,11
 2794,211,1008241,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Esc. Aniceto Arce,13
 2794,211,1008251,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Esc. Aniceto Arce,14
+2794,211,1008261,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Esc. Aniceto Arce,15
+2794,211,1008271,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Esc. Aniceto Arce,16
+2794,211,1008291,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Esc. Aniceto Arce,18
 2794,211,1008311,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Esc. Aniceto Arce,20
 2794,519,1008321,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Colegio 23 de Marzo,1
 2794,519,1008331,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Colegio 23 de Marzo,2
@@ -1588,6 +1635,9 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2794,110,1008681,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Unid. Educ. Jose Clemente Maurer,10
 2794,110,1008691,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Unid. Educ. Jose Clemente Maurer,11
 2794,110,1008701,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Unid. Educ. Jose Clemente Maurer,12
+2794,535,1008751,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Unid. Ed. Hugo Poppe Entrambasaguas,5
+2794,535,1008791,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Unid. Ed. Hugo Poppe Entrambasaguas,9
+2794,535,1008841,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Unid. Ed. Hugo Poppe Entrambasaguas,14
 2794,32389,1008871,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Bicentenario,1
 2794,32389,1008881,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Bicentenario,2
 2794,533,1008891,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Evo Morales Ayma,1
@@ -1633,6 +1683,8 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2794,507,1009331,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Jardín De Niños San Lázaro,3
 2794,507,1009341,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Jardín De Niños San Lázaro,4
 2794,507,1009351,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Jardín De Niños San Lázaro,5
+2794,30009,1009381,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Coliseo San José,3
+2794,30009,1009401,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Coliseo San José,5
 2794,32160,1009421,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Genoveva Rios,1
 2794,32160,1009431,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Genoveva Rios,2
 2794,25029,1009441,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,(Cárcel) Cárcel Pública,1
@@ -1670,6 +1722,8 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2794,25033,1009761,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Unidad Educativa Ruffo,8
 2794,25032,1009781,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Unidad Educativa Alberto Bohorquez,2
 2794,25032,1009821,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Unidad Educativa Alberto Bohorquez,6
+2794,25032,1009841,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Unidad Educativa Alberto Bohorquez,8
+2794,25032,1009851,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Unidad Educativa Alberto Bohorquez,9
 2794,25032,1009861,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Unidad Educativa Alberto Bohorquez,10
 2794,25032,1009881,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Unidad Educativa Alberto Bohorquez,12
 2794,25032,1009911,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Unidad Educativa Alberto Bohorquez,15
@@ -1701,10 +1755,12 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2794,510,1010201,32,BOLIVIA,1,Chuquisaca,3,0,1,Oropeza                                 ,1,Sucre,Sucre,Unidad Educativa Alegría,11
 2794,26371,1010211,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Lechuguillas,1
 2794,26371,1010221,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Lechuguillas,2
+3821,1,1010391,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Alto Khora Khora,U.E. Qhora Qhora Alta,2
 3821,1,1010401,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Alto Khora Khora,U.E. Qhora Qhora Alta,3
 3821,1,1010411,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Alto Khora Khora,U.E. Qhora Qhora Alta,4
 3821,1,1010421,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Alto Khora Khora,U.E. Qhora Qhora Alta,5
 3821,1,1010431,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Alto Khora Khora,U.E. Qhora Qhora Alta,6
+1283,2,1011651,32,BOLIVIA,1,Chuquisaca,3,0,3,Zudáñez,1,Zudañez,Zudañez,Col. Ignacio Prudencio Bustillos,2
 1283,2,1011661,32,BOLIVIA,1,Chuquisaca,3,0,3,Zudáñez,1,Zudañez,Zudañez,Col. Ignacio Prudencio Bustillos,3
 1283,2,1011671,32,BOLIVIA,1,Chuquisaca,3,0,3,Zudáñez,1,Zudañez,Zudañez,Col. Ignacio Prudencio Bustillos,4
 1283,2,1011681,32,BOLIVIA,1,Chuquisaca,3,0,3,Zudáñez,1,Zudañez,Zudañez,Col. Ignacio Prudencio Bustillos,5
@@ -1715,19 +1771,25 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 1283,1,1011741,32,BOLIVIA,1,Chuquisaca,3,0,3,Zudáñez,1,Zudañez,Zudañez,Col. Jaime De Zudañez,5
 1283,1,1011751,32,BOLIVIA,1,Chuquisaca,3,0,3,Zudáñez,1,Zudañez,Zudañez,Col. Jaime De Zudañez,6
 1283,1,1011761,32,BOLIVIA,1,Chuquisaca,3,0,3,Zudáñez,1,Zudañez,Zudañez,Col. Jaime De Zudañez,7
+1354,1,1014201,32,BOLIVIA,1,Chuquisaca,3,0,6,Yamparáez,1,Tarabuco,Tarabuco,U. Edu. Rosalia Vda. De Antezana,1
 1354,1,1014211,32,BOLIVIA,1,Chuquisaca,3,0,6,Yamparáez,1,Tarabuco,Tarabuco,U. Edu. Rosalia Vda. De Antezana,2
 1354,1,1014221,32,BOLIVIA,1,Chuquisaca,3,0,6,Yamparáez,1,Tarabuco,Tarabuco,U. Edu. Rosalia Vda. De Antezana,3
 1354,1,1014231,32,BOLIVIA,1,Chuquisaca,3,0,6,Yamparáez,1,Tarabuco,Tarabuco,U. Edu. Rosalia Vda. De Antezana,4
 1354,1,1014241,32,BOLIVIA,1,Chuquisaca,3,0,6,Yamparáez,1,Tarabuco,Tarabuco,U. Edu. Rosalia Vda. De Antezana,5
+1354,1,1014251,32,BOLIVIA,1,Chuquisaca,3,0,6,Yamparáez,1,Tarabuco,Tarabuco,U. Edu. Rosalia Vda. De Antezana,6
 1354,1,1014261,32,BOLIVIA,1,Chuquisaca,3,0,6,Yamparáez,1,Tarabuco,Tarabuco,U. Edu. Rosalia Vda. De Antezana,7
 1354,2,1014271,32,BOLIVIA,1,Chuquisaca,3,0,6,Yamparáez,1,Tarabuco,Tarabuco,Colegio Aniceto Arce,1
 1354,2,1014281,32,BOLIVIA,1,Chuquisaca,3,0,6,Yamparáez,1,Tarabuco,Tarabuco,Colegio Aniceto Arce,2
+1354,2,1014291,32,BOLIVIA,1,Chuquisaca,3,0,6,Yamparáez,1,Tarabuco,Tarabuco,Colegio Aniceto Arce,3
 1354,2,1014301,32,BOLIVIA,1,Chuquisaca,3,0,6,Yamparáez,1,Tarabuco,Tarabuco,Colegio Aniceto Arce,4
+1354,2,1014311,32,BOLIVIA,1,Chuquisaca,3,0,6,Yamparáez,1,Tarabuco,Tarabuco,Colegio Aniceto Arce,5
 1354,2,1014321,32,BOLIVIA,1,Chuquisaca,3,0,6,Yamparáez,1,Tarabuco,Tarabuco,Colegio Aniceto Arce,6
 1354,2,1014331,32,BOLIVIA,1,Chuquisaca,3,0,6,Yamparáez,1,Tarabuco,Tarabuco,Colegio Aniceto Arce,7
 1354,26130,1014341,32,BOLIVIA,1,Chuquisaca,3,0,6,Yamparáez,1,Tarabuco,Tarabuco,(Cárcel) Carceleta Pública de Tarabuco,1
 1363,1,1014661,32,BOLIVIA,1,Chuquisaca,3,0,6,Yamparáez,2,Yamparáez,Yamparaez,Escuela Eduardo Sempertegui,1
+1363,1,1014681,32,BOLIVIA,1,Chuquisaca,3,0,6,Yamparáez,2,Yamparáez,Yamparaez,Escuela Eduardo Sempertegui,3
 1363,1,1014691,32,BOLIVIA,1,Chuquisaca,3,0,6,Yamparáez,2,Yamparáez,Yamparaez,Escuela Eduardo Sempertegui,4
+1363,1,1014711,32,BOLIVIA,1,Chuquisaca,3,0,6,Yamparáez,2,Yamparáez,Yamparaez,Escuela Eduardo Sempertegui,6
 729,304,2000051,32,BOLIVIA,2,La Paz,8,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U. E. San Simón de Ayacucho A,5
 729,308,2000121,32,BOLIVIA,2,La Paz,8,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U. E. Santa Ana II,4
 729,2108,2000191,32,BOLIVIA,2,La Paz,8,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. La Paz B,4
@@ -1832,6 +1894,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 729,32378,2005821,32,BOLIVIA,2,La Paz,9,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,Instituto Tecnológico Marcelo Quiroga Santa Cruz,1
 729,2302,2007971,32,BOLIVIA,2,La Paz,9,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Eduardo Abaroa III,2
 729,2302,2008041,32,BOLIVIA,2,La Paz,9,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Eduardo Abaroa III,9
+729,2302,2008111,32,BOLIVIA,2,La Paz,9,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Eduardo Abaroa III,16
 729,2504,2009001,32,BOLIVIA,2,La Paz,9,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Holanda,28
 729,2502,2010841,32,BOLIVIA,2,La Paz,9,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U. E. Club de Leones Nro. 2,16
 729,2502,2010871,32,BOLIVIA,2,La Paz,9,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U. E. Club de Leones Nro. 2,19
@@ -1851,6 +1914,8 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 729,204,2014121,32,BOLIVIA,2,La Paz,9,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U. E. Nicolás Fernandez Naranjo,4
 729,204,2014131,32,BOLIVIA,2,La Paz,9,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U. E. Nicolás Fernandez Naranjo,5
 729,204,2014211,32,BOLIVIA,2,La Paz,9,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U. E. Nicolás Fernandez Naranjo,13
+729,204,2014251,32,BOLIVIA,2,La Paz,9,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U. E. Nicolás Fernandez Naranjo,17
+729,204,2014351,32,BOLIVIA,2,La Paz,9,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U. E. Nicolás Fernandez Naranjo,27
 729,506,2014981,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E.  Adolfo  Costa Du Rels,9
 729,506,2014991,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E.  Adolfo  Costa Du Rels,10
 729,506,2015031,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E.  Adolfo  Costa Du Rels,14
@@ -1901,6 +1966,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 729,607,2016341,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E.  La Merced B,21
 729,607,2016351,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E.  La Merced B,22
 729,607,2016431,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E.  La Merced B,30
+729,607,2016441,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E.  La Merced B,31
 729,607,2016461,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E.  La Merced B,33
 729,607,2016471,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E.  La Merced B,34
 729,608,2016501,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E.  Irene Nava de Castillo B,2
@@ -1911,7 +1977,9 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 729,608,2016801,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E.  Irene Nava de Castillo B,32
 729,608,2016811,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E.  Irene Nava de Castillo B,33
 729,603,2016941,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E.  Simón Rodriguez Carreño,2
+729,603,2016971,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E.  Simón Rodriguez Carreño,5
 729,603,2017001,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E.  Simón Rodriguez Carreño,8
+729,603,2017071,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E.  Simón Rodriguez Carreño,15
 729,604,2017161,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U. E. Ave María Fundación Manos Abiertas Virgen de la Natividad,2
 729,604,2017181,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U. E. Ave María Fundación Manos Abiertas Virgen de la Natividad,4
 729,604,2017211,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U. E. Ave María Fundación Manos Abiertas Virgen de la Natividad,7
@@ -1956,6 +2024,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 729,25035,2018531,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Elodia de Lijeron,6
 729,32375,2018611,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,Sede Social Villa Copacabana,1
 729,808,2018671,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Caracas A,6
+729,801,2018781,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E.  Genoveva Ríos,6
 729,801,2018791,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E.  Genoveva Ríos,7
 729,801,2018801,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E.  Genoveva Ríos,8
 729,801,2018811,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E.  Genoveva Ríos,9
@@ -1966,6 +2035,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 729,802,2019131,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Gral. José de San Martin,17
 729,802,2019141,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Gral. José de San Martin,18
 729,802,2019151,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Gral. José de San Martin,19
+729,802,2019161,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Gral. José de San Martin,20
 729,805,2019281,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,Sede Junta Vecinal San Antonio,2
 729,805,2019291,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,Sede Junta Vecinal San Antonio,3
 729,807,2019401,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. San Antonio Fe y Alegría,11
@@ -2019,6 +2089,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 729,1103,2022211,32,BOLIVIA,2,La Paz,7,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Victor Paz Estensoro,15
 729,1103,2022231,32,BOLIVIA,2,La Paz,7,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Victor Paz Estensoro,17
 729,1103,2022251,32,BOLIVIA,2,La Paz,7,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Victor Paz Estensoro,19
+729,1103,2022261,32,BOLIVIA,2,La Paz,7,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Victor Paz Estensoro,20
 729,1104,2022271,32,BOLIVIA,2,La Paz,7,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Domingo Savio A,1
 729,1104,2022341,32,BOLIVIA,2,La Paz,7,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Domingo Savio A,8
 729,1104,2022361,32,BOLIVIA,2,La Paz,7,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Domingo Savio A,10
@@ -2070,16 +2141,23 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 729,1203,2023621,32,BOLIVIA,2,La Paz,7,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Santa Rosa La Florida A,15
 729,1201,2024011,32,BOLIVIA,2,La Paz,7,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Franco Boliviano,10
 729,1201,2024031,32,BOLIVIA,2,La Paz,7,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Franco Boliviano,12
+729,1201,2024071,32,BOLIVIA,2,La Paz,7,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Franco Boliviano,16
 729,1201,2024111,32,BOLIVIA,2,La Paz,7,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Franco Boliviano,20
 729,1201,2024131,32,BOLIVIA,2,La Paz,7,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Franco Boliviano,22
+729,1201,2024221,32,BOLIVIA,2,La Paz,7,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Franco Boliviano,31
+729,1201,2024231,32,BOLIVIA,2,La Paz,7,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Franco Boliviano,32
+729,1201,2024241,32,BOLIVIA,2,La Paz,7,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Franco Boliviano,33
 729,1201,2024251,32,BOLIVIA,2,La Paz,7,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Franco Boliviano,34
+729,1201,2024261,32,BOLIVIA,2,La Paz,7,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Franco Boliviano,35
 729,25598,2024461,32,BOLIVIA,2,La Paz,7,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Jach'a Uru,1
 729,25598,2024481,32,BOLIVIA,2,La Paz,7,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Jach'a Uru,3
 729,25598,2024501,32,BOLIVIA,2,La Paz,7,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Jach'a Uru,5
+729,25598,2024531,32,BOLIVIA,2,La Paz,7,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Jach'a Uru,8
 729,25598,2024571,32,BOLIVIA,2,La Paz,7,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Jach'a Uru,12
 729,25598,2024591,32,BOLIVIA,2,La Paz,7,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Jach'a Uru,14
 729,1405,2024641,32,BOLIVIA,2,La Paz,7,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Chasquipampa A,3
 729,1405,2024671,32,BOLIVIA,2,La Paz,7,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Chasquipampa A,6
+729,1405,2024701,32,BOLIVIA,2,La Paz,7,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Chasquipampa A,9
 729,1405,2024731,32,BOLIVIA,2,La Paz,7,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Chasquipampa A,12
 729,1405,2024751,32,BOLIVIA,2,La Paz,7,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Chasquipampa A,14
 729,1405,2024761,32,BOLIVIA,2,La Paz,7,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Chasquipampa A,15
@@ -2143,12 +2221,15 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 729,1606,2028001,32,BOLIVIA,2,La Paz,8,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. San Ignacio,17
 729,1606,2028011,32,BOLIVIA,2,La Paz,8,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. San Ignacio,18
 820,701,2030181,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. 12 de Octubre,1
+820,701,2030281,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. 12 de Octubre,11
 820,1002,2030681,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Vicente Donoso Torres A,6
 820,1002,2030691,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Vicente Donoso Torres A,7
 820,1002,2030701,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Vicente Donoso Torres A,8
 820,1002,2030721,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Vicente Donoso Torres A,10
 820,1002,2030741,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Vicente Donoso Torres A,12
 820,1002,2030771,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Vicente Donoso Torres A,15
+820,1002,2030801,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Vicente Donoso Torres A,18
+820,1002,2030821,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Vicente Donoso Torres A,20
 820,1003,2030861,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Héroes del Pacifico,4
 820,1003,2030871,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Héroes del Pacifico,5
 820,1003,2030881,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Héroes del Pacifico,6
@@ -2187,6 +2268,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 820,2609,2032171,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Tejada Triangular,7
 820,2609,2032191,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Tejada Triangular,9
 820,2609,2032201,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Tejada Triangular,10
+820,2609,2032231,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Tejada Triangular,13
 820,801,2032351,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Tarapaca,6
 820,801,2032401,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Tarapaca,11
 820,801,2032421,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Tarapaca,13
@@ -2235,6 +2317,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 820,1101,2033201,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Libertad en las Américas,34
 820,1101,2033211,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Libertad en las Américas,35
 820,703,2033461,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Santiago I,4
+820,703,2033471,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Santiago I,5
 820,703,2033531,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Santiago I,11
 820,703,2033541,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Santiago I,12
 820,703,2033551,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Santiago I,13
@@ -2255,6 +2338,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 820,32287,2036861,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Jesús Obrero Mañana,2
 820,32196,2037041,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U. E. Cuerpo de Cristo Fe y Alegría,18
 820,1901,2037081,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. 3 de Mayo B,4
+820,1901,2037091,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. 3 de Mayo B,5
 820,1901,2037111,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. 3 de Mayo B,7
 820,1703,2037381,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Alto De La Alianza,1
 820,1703,2037391,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Alto De La Alianza,2
@@ -2279,6 +2363,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 820,1804,2037961,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. La Paz,14
 820,2102,2038441,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U. E. 6 de Junio de Cosmos 79,1
 820,2102,2038451,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U. E. 6 de Junio de Cosmos 79,2
+820,2102,2038551,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U. E. 6 de Junio de Cosmos 79,12
 820,2102,2038561,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U. E. 6 de Junio de Cosmos 79,13
 820,2102,2038641,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U. E. 6 de Junio de Cosmos 79,21
 820,2102,2038671,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U. E. 6 de Junio de Cosmos 79,24
@@ -2295,6 +2380,8 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 820,1705,2039151,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Adela Zamudio A,9
 820,1705,2039161,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Adela Zamudio A,10
 820,1705,2039171,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Adela Zamudio A,11
+820,1905,2039421,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Néstor Paz Zamora,23
+820,1905,2039551,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Néstor Paz Zamora,36
 820,32154,2040021,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. San Luis de Gonzaga A,1
 820,32313,2040031,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. San Pedro de Charapaqui,1
 820,1701,2040801,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Marcelo Quiroga Santa Cruz,7
@@ -2337,8 +2424,14 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 820,1903,2041621,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Illimani,9
 820,1903,2041641,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Illimani,11
 820,1903,2041661,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Illimani,13
+820,1903,2041691,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Illimani,16
+820,1903,2041761,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Illimani,23
+820,202,2047431,32,BOLIVIA,2,La Paz,10,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Noruega,2
+820,202,2047461,32,BOLIVIA,2,La Paz,10,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Noruega,5
+820,30055,2047751,32,BOLIVIA,2,La Paz,10,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Unión Europea B,2
 820,201,2048131,32,BOLIVIA,2,La Paz,10,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Huayna Potosí,21
 820,302,2048491,32,BOLIVIA,2,La Paz,10,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Illimani,1
+820,302,2048501,32,BOLIVIA,2,La Paz,10,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Illimani,2
 820,302,2048511,32,BOLIVIA,2,La Paz,10,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Illimani,3
 820,302,2048531,32,BOLIVIA,2,La Paz,10,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Illimani,5
 820,302,2048551,32,BOLIVIA,2,La Paz,10,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Illimani,7
@@ -2353,6 +2446,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 820,601,2050901,32,BOLIVIA,2,La Paz,10,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Santa Maria de Los Ángeles,9
 820,601,2051021,32,BOLIVIA,2,La Paz,10,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Santa Maria de Los Ángeles,21
 820,601,2051041,32,BOLIVIA,2,La Paz,10,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Santa Maria de Los Ángeles,23
+820,601,2051061,32,BOLIVIA,2,La Paz,10,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Santa Maria de Los Ángeles,25
 820,601,2051081,32,BOLIVIA,2,La Paz,10,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Santa Maria de Los Ángeles,27
 820,601,2051091,32,BOLIVIA,2,La Paz,10,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Santa Maria de Los Ángeles,28
 820,601,2051101,32,BOLIVIA,2,La Paz,10,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Santa Maria de Los Ángeles,29
@@ -5614,6 +5708,23 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 1494,25036,5007221,32,BOLIVIA,5,Potosí,34,0,1,Tomás Frías,1,Potosí,Potosí,(Cárcel) Penal de Cantumarca,1
 1494,25036,5007231,32,BOLIVIA,5,Potosí,34,0,1,Tomás Frías,1,Potosí,Potosí,(Cárcel) Penal de Cantumarca,2
 1494,25036,5007241,32,BOLIVIA,5,Potosí,34,0,1,Tomás Frías,1,Potosí,Potosí,(Cárcel) Penal de Cantumarca,3
+1876,1,6000391,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tolomosa Grande,U.E. Oscar Zamora,1
+1877,1,6000431,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tolomosita Centro,U.E. Tolomosita,1
+1878,1,6000451,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,San Jacinto Sud,U.E. San Jacinto Sud,1
+1878,1,6000461,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,San Jacinto Sud,U.E. San Jacinto Sud,2
+1880,1,6000491,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Pampa Redonda Centro,U.E. Luis De Fuentes,2
+1882,1,6000511,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Guerra Huayco,U.E. San Lazaro de Guerra Huayco,2
+1882,1,6000521,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Guerra Huayco,U.E. San Lazaro de Guerra Huayco,3
+1882,1,6000531,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Guerra Huayco,U.E. San Lazaro de Guerra Huayco,4
+1883,1,6000591,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,San Andrés,U.E. San Andres,1
+1883,1,6000601,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,San Andrés,U.E. San Andres,2
+1883,1,6000621,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,San Andrés,U.E. San Andres,4
+1883,1,6000641,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,San Andrés,U.E. San Andres,6
+1883,1,6000661,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,San Andrés,U.E. San Andres,8
+1884,1,6000671,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Bella Vista,U.E. Bella Vista,1
+1884,1,6000681,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Bella Vista,U.E. Bella Vista,2
+1884,1,6000691,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Bella Vista,U.E. Bella Vista,3
+1885,1,6000711,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Pinos Sud,U.E. Pinos Sud,2
 2680,1,6000721,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Nacional San Luis,1
 2680,1,6000731,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Nacional San Luis,2
 2680,1,6000741,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Nacional San Luis,3
@@ -6342,6 +6453,9 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2680,77,6007971,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. El Portillo,9
 2680,77,6007981,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. El Portillo,10
 2680,77,6007991,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. El Portillo,11
+2927,1,6008011,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Churquis,U.E. Churquis,2
+1934,12,6015691,32,BOLIVIA,6,Tarija,42,0,4,Avilés,1,Uriondo,Alizos,Esc. Walter Madalleno,2
+1935,13,6015701,32,BOLIVIA,6,Tarija,42,0,4,Avilés,1,Uriondo,Miscas Caldera,U.E. 15 de Octubre,1
 1990,2,6015991,32,BOLIVIA,6,Tarija,40,0,5,Méndez,1,San Lorenzo,San Lorenzo,U.E. Eustaquio Mendez,1
 1990,2,6016001,32,BOLIVIA,6,Tarija,40,0,5,Méndez,1,San Lorenzo,San Lorenzo,U.E. Eustaquio Mendez,2
 1990,2,6016011,32,BOLIVIA,6,Tarija,40,0,5,Méndez,1,San Lorenzo,San Lorenzo,U.E. Eustaquio Mendez,3
@@ -6397,6 +6511,8 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,10016,7000231,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Escuela Ambrocio Villarroel,10
 2234,10016,7000241,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Escuela Ambrocio Villarroel,11
 2234,4014,7000261,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Jhon Kennedy,2
+2234,4014,7000281,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Jhon Kennedy,4
+2234,4014,7000291,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Jhon Kennedy,5
 2234,4014,7000301,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Jhon Kennedy,6
 2234,4014,7000311,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Jhon Kennedy,7
 2234,4014,7000391,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Jhon Kennedy,15
@@ -6441,6 +6557,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,1006,7001021,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. San Martin De Porres,27
 2234,1006,7001041,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. San Martin De Porres,29
 2234,1002,7001061,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Esc. Rene Barrientos,1
+2234,1002,7001071,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Esc. Rene Barrientos,2
 2234,1002,7001131,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Esc. Rene Barrientos,8
 2234,1002,7001151,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Esc. Rene Barrientos,10
 2234,1002,7001161,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Esc. Rene Barrientos,11
@@ -6493,6 +6610,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,1003,7002341,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Modulo Educativo Jose Miguel De Velasco,11
 2234,1003,7002351,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Modulo Educativo Jose Miguel De Velasco,12
 2234,1003,7002361,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Modulo Educativo Jose Miguel De Velasco,13
+2234,1003,7002401,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Modulo Educativo Jose Miguel De Velasco,17
 2234,1012,7002481,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Escuela San Carlos,6
 2234,1012,7002511,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Escuela San Carlos,9
 2234,1012,7002531,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Escuela San Carlos,11
@@ -6536,6 +6654,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,26422,7003781,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Grigota,3
 2234,26422,7003801,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Grigota,5
 2234,26422,7003861,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Grigota,11
+2234,2013,7003891,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Domingo Leigue (Boliviano Canadiense),3
 2234,2013,7003901,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Domingo Leigue (Boliviano Canadiense),4
 2234,2013,7003921,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Domingo Leigue (Boliviano Canadiense),6
 2234,2013,7003931,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Domingo Leigue (Boliviano Canadiense),7
@@ -6559,11 +6678,20 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,2021,7004531,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Carmen Ortiz De Peredo,18
 2234,2021,7004541,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Carmen Ortiz De Peredo,19
 2234,2021,7004551,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Carmen Ortiz De Peredo,20
+2234,2023,7004591,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Pedro Gutierrez,4
+2234,2023,7004611,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Pedro Gutierrez,6
+2234,2023,7004631,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Pedro Gutierrez,8
+2234,2023,7004671,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Pedro Gutierrez,12
 2234,2014,7004731,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio  6 de Junio,2
 2234,2014,7004751,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio  6 de Junio,4
 2234,2014,7004791,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio  6 de Junio,8
 2234,2014,7004821,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio  6 de Junio,11
+2234,2014,7004831,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio  6 de Junio,12
 2234,2014,7004841,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio  6 de Junio,13
+2234,2019,7005181,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Escuela Magisterio,8
+2234,2019,7005191,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Escuela Magisterio,9
+2234,2009,7005281,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Wenseslao Montero,3
+2234,2009,7005331,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Wenseslao Montero,8
 2234,26348,7005411,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U. E. Neptaly Sandoval II,1
 2234,26348,7005421,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U. E. Neptaly Sandoval II,2
 2234,26348,7005441,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U. E. Neptaly Sandoval II,4
@@ -6583,6 +6711,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,3008,7005921,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Felix Bascope Sanandita,4
 2234,3008,7005931,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Felix Bascope Sanandita,5
 2234,3008,7005951,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Felix Bascope Sanandita,7
+2234,3008,7005961,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Felix Bascope Sanandita,8
 2234,3008,7005971,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Felix Bascope Sanandita,9
 2234,3009,7005991,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. San Carlos,1
 2234,3009,7006011,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. San Carlos,3
@@ -6619,12 +6748,15 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,3010,7006451,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. El Pajonal,7
 2234,3010,7006461,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. El Pajonal,8
 2234,7003,7006471,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Felix Bascope,1
+2234,7003,7006481,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Felix Bascope,2
 2234,7003,7006521,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Felix Bascope,6
 2234,7003,7006531,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Felix Bascope,7
+2234,7003,7006601,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Felix Bascope,14
 2234,7003,7006611,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Felix Bascope,15
 2234,7003,7006621,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Felix Bascope,16
 2234,7003,7006631,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Felix Bascope,17
 2234,7003,7006641,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Felix Bascope,18
+2234,7003,7006651,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Felix Bascope,19
 2234,7005,7006661,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Heroes Del Chaco,1
 2234,7005,7006671,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Heroes Del Chaco,2
 2234,7005,7006681,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Heroes Del Chaco,3
@@ -6650,6 +6782,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,7004,7006911,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. 30 de Marzo,3
 2234,7004,7006941,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. 30 de Marzo,6
 2234,7004,7006951,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. 30 de Marzo,7
+2234,7004,7006961,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. 30 de Marzo,8
 2234,7004,7006971,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. 30 de Marzo,9
 2234,7004,7006981,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. 30 de Marzo,10
 2234,7004,7006991,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. 30 de Marzo,11
@@ -6666,6 +6799,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,25655,7007211,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Ramon Dario Gutierrez  A,15
 2234,25655,7007221,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Ramon Dario Gutierrez  A,16
 2234,25655,7007231,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Ramon Dario Gutierrez  A,17
+2234,25655,7007241,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Ramon Dario Gutierrez  A,18
 2234,25655,7007251,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Ramon Dario Gutierrez  A,19
 2234,3003,7007291,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Ramon Dario Gutierrez,4
 2234,3003,7007301,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Ramon Dario Gutierrez,5
@@ -6739,6 +6873,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,3011,7008591,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Nestor Suarez,13
 2234,3011,7008631,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Nestor Suarez,17
 2234,3013,7008641,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Sagrado Corazon,1
+2234,3013,7008681,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Sagrado Corazon,5
 2234,3013,7008691,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Sagrado Corazon,6
 2234,26402,7008711,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Feliciana Rodriguez I,2
 2234,3012,7008721,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Magdalena Postel,1
@@ -6761,6 +6896,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,4011,7008931,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Victor Paz Estensoro,5
 2234,4011,7008941,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Victor Paz Estensoro,6
 2234,4011,7008951,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Victor Paz Estensoro,7
+2234,4011,7008961,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Victor Paz Estensoro,8
 2234,4011,7008971,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Victor Paz Estensoro,9
 2234,4011,7008981,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Victor Paz Estensoro,10
 2234,4011,7008991,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Victor Paz Estensoro,11
@@ -6769,27 +6905,35 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,4011,7009041,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Victor Paz Estensoro,16
 2234,4011,7009101,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Victor Paz Estensoro,22
 2234,4010,7009261,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Villa Warnes A.,16
+2234,4010,7009271,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Villa Warnes A.,17
 2234,4010,7009311,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Villa Warnes A.,21
 2234,4010,7009321,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Villa Warnes A.,22
+2234,4009,7009481,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Virgen de Fatima,5
 2234,4002,7009631,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Villa Rosario,1
 2234,4002,7009641,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Villa Rosario,2
 2234,4002,7009651,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Villa Rosario,3
 2234,4002,7009661,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Villa Rosario,4
 2234,4002,7009671,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Villa Rosario,5
 2234,4002,7009681,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Villa Rosario,6
+2234,4002,7009691,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Villa Rosario,7
 2234,4002,7009711,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Villa Rosario,9
+2234,4002,7009721,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Villa Rosario,10
 2234,26343,7009871,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U. E. Felix Oroza Marañon II,2
 2234,26343,7009911,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U. E. Felix Oroza Marañon II,6
 2234,26343,7009921,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U. E. Felix Oroza Marañon II,7
 2234,26343,7009931,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U. E. Felix Oroza Marañon II,8
 2234,5023,7010021,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Escuela 23 de Marzo,9
+2234,5023,7010031,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Escuela 23 de Marzo,10
 2234,5023,7010071,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Escuela 23 de Marzo,14
+2234,5023,7010081,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Escuela 23 de Marzo,15
+2234,5023,7010141,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Escuela 23 de Marzo,21
 2234,5022,7010191,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Escuela San Joaquin,1
 2234,5022,7010201,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Escuela San Joaquin,2
 2234,5022,7010211,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Escuela San Joaquin,3
 2234,5022,7010221,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Escuela San Joaquin,4
 2234,5022,7010231,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Escuela San Joaquin,5
 2234,5022,7010241,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Escuela San Joaquin,6
+2234,5022,7010251,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Escuela San Joaquin,7
 2234,5022,7010261,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Escuela San Joaquin,8
 2234,5022,7010271,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Escuela San Joaquin,9
 2234,5022,7010311,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Escuela San Joaquin,13
@@ -6819,6 +6963,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,5018,7010681,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Escuela Km 9,9
 2234,5018,7010701,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Escuela Km 9,11
 2234,5018,7010711,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Escuela Km 9,12
+2234,5024,7010781,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Escuela Primavera,1
 2234,5024,7010801,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Escuela Primavera,3
 2234,5024,7010811,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Escuela Primavera,4
 2234,5024,7010831,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Escuela Primavera,6
@@ -6830,10 +6975,15 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,25668,7010891,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. 18 de Noviembre,3
 2234,25668,7010911,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. 18 de Noviembre,5
 2234,25668,7010921,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. 18 de Noviembre,6
+2234,25668,7010961,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. 18 de Noviembre,10
+2234,25668,7010971,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. 18 de Noviembre,11
 2234,26400,7011141,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. San Jorge Norte,1
+2234,26400,7011151,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. San Jorge Norte,2
 2234,5003,7011421,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Escuela 2 De Agosto,5
 2234,5003,7011431,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Escuela 2 De Agosto,6
 2234,5003,7011441,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Escuela 2 De Agosto,7
+2234,5015,7011451,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U. E. Escuela Ñuflo De Chavez,1
+2234,5015,7011461,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U. E. Escuela Ñuflo De Chavez,2
 2234,5015,7011531,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U. E. Escuela Ñuflo De Chavez,9
 2234,5015,7011541,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U. E. Escuela Ñuflo De Chavez,10
 2234,5015,7011551,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U. E. Escuela Ñuflo De Chavez,11
@@ -6851,11 +7001,15 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,5002,7011781,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Esc. German Busch,14
 2234,25418,7011821,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Modulo Educativo German Busch,4
 2234,25418,7011851,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Modulo Educativo German Busch,7
+2234,25418,7011861,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Modulo Educativo German Busch,8
 2234,25418,7011871,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Modulo Educativo German Busch,9
 2234,25418,7011881,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Modulo Educativo German Busch,10
 2234,26403,7011891,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Hilarión Tomelicht Ardaya I,1
 2234,5017,7012061,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Nueva Esperanza,1
+2234,5017,7012071,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Nueva Esperanza,2
 2234,5017,7012091,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Nueva Esperanza,4
+2234,5017,7012111,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Nueva Esperanza,6
+2234,5017,7012121,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Nueva Esperanza,7
 2234,5017,7012131,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Nueva Esperanza,8
 2234,5017,7012141,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Nueva Esperanza,9
 2234,5017,7012151,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Nueva Esperanza,10
@@ -6866,6 +7020,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,5014,7012411,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Esc. Claracuta,2
 2234,5014,7012421,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Esc. Claracuta,3
 2234,5014,7012461,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Esc. Claracuta,7
+2234,5014,7012521,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Esc. Claracuta,13
 2234,5019,7012551,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Luz Y Saber II,2
 2234,5019,7012661,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Luz Y Saber II,13
 2234,5019,7012681,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Luz Y Saber II,15
@@ -6876,8 +7031,10 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,5028,7012811,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Juan La Borde Morel,10
 2234,5028,7012831,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Juan La Borde Morel,12
 2234,5028,7012841,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Juan La Borde Morel,13
+2234,5028,7012851,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Juan La Borde Morel,14
 2234,5013,7012931,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. San Martin Norte,8
 2234,5013,7012941,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. San Martin Norte,9
+2234,5013,7012981,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. San Martin Norte,13
 2234,5013,7012991,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. San Martin Norte,14
 2234,5013,7013001,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. San Martin Norte,15
 2234,5013,7013011,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. San Martin Norte,16
@@ -6888,6 +7045,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,5013,7013081,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. San Martin Norte,23
 2234,5013,7013091,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. San Martin Norte,24
 2234,5013,7013101,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. San Martin Norte,25
+2234,25470,7013111,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Santa Cruz de la Sierra,1
 2234,25470,7013121,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Santa Cruz de la Sierra,2
 2234,25470,7013131,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Santa Cruz de la Sierra,3
 2234,25470,7013141,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Santa Cruz de la Sierra,4
@@ -6895,14 +7053,18 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,25470,7013251,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Santa Cruz de la Sierra,15
 2234,25470,7013261,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Santa Cruz de la Sierra,16
 2234,25470,7013271,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Santa Cruz de la Sierra,17
+2234,25470,7013291,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Santa Cruz de la Sierra,19
 2234,25470,7013301,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Santa Cruz de la Sierra,20
 2234,25470,7013311,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Santa Cruz de la Sierra,21
+2234,25470,7013351,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Santa Cruz de la Sierra,25
 2234,5008,7013461,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Naciones Unidas,8
+2234,5008,7013471,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Naciones Unidas,9
 2234,5008,7013491,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Naciones Unidas,11
 2234,5008,7013501,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Naciones Unidas,12
 2234,5008,7013511,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Naciones Unidas,13
 2234,6022,7013571,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Escuela 1ro. de Mayo,6
 2234,6022,7013581,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Escuela 1ro. de Mayo,7
+2234,6022,7013591,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Escuela 1ro. de Mayo,8
 2234,6022,7013601,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Escuela 1ro. de Mayo,9
 2234,5016,7013611,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Adventista Santa Cruz,1
 2234,5016,7013641,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Adventista Santa Cruz,4
@@ -6923,6 +7085,8 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,5010,7013981,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Esc. Jose Mariano Serrano,6
 2234,5010,7013991,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Esc. Jose Mariano Serrano,7
 2234,5010,7014011,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Esc. Jose Mariano Serrano,9
+2234,5010,7014021,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Esc. Jose Mariano Serrano,10
+2234,5029,7014091,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Arturo Medeiros,5
 2234,6000,7014461,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Sor Maria Cristina Perez,28
 2234,6000,7014471,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Sor Maria Cristina Perez,29
 2234,6000,7014481,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Sor Maria Cristina Perez,30
@@ -6932,16 +7096,22 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,11084,7014551,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Kinder Ferroviario,1
 2234,11084,7014561,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Kinder Ferroviario,2
 2234,11084,7014571,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Kinder Ferroviario,3
+2234,6001,7014681,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U. E. Carlos La Torre,9
+2234,6001,7014701,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U. E. Carlos La Torre,11
 2234,6001,7014711,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U. E. Carlos La Torre,12
 2234,6001,7014741,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U. E. Carlos La Torre,15
 2234,6001,7014751,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U. E. Carlos La Torre,16
 2234,6001,7014771,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U. E. Carlos La Torre,18
 2234,6001,7014781,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U. E. Carlos La Torre,19
+2234,6002,7014801,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Pampa De La Isla,2
 2234,6002,7014821,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Pampa De La Isla,4
 2234,6002,7014831,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Pampa De La Isla,5
+2234,6003,7015071,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio San Felipe,18
+2234,6004,7015271,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col.  Pedro Añez,7
 2234,6004,7015291,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col.  Pedro Añez,9
 2234,6004,7015301,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col.  Pedro Añez,10
 2234,11082,7015561,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Modulo Rancho Nuevo,7
+2234,26340,7015901,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U. E. 10 de Octubre,18
 2234,26340,7015931,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U. E. 10 de Octubre,21
 2234,26340,7015941,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U. E. 10 de Octubre,22
 2234,26340,7015951,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U. E. 10 de Octubre,23
@@ -6950,6 +7120,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,26340,7015981,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U. E. 10 de Octubre,26
 2234,26340,7016001,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U. E. 10 de Octubre,28
 2234,6008,7016051,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Educativo Cotoca,2
+2234,6008,7016061,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Educativo Cotoca,3
 2234,6008,7016121,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Educativo Cotoca,9
 2234,6008,7016141,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Educativo Cotoca,11
 2234,7025,7016251,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Alfredo Barbery Chavez A,1
@@ -6962,14 +7133,17 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,7025,7016321,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Alfredo Barbery Chavez A,8
 2234,7025,7016371,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Alfredo Barbery Chavez A,13
 2234,7025,7016401,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Alfredo Barbery Chavez A,16
+2234,7025,7016501,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Alfredo Barbery Chavez A,26
 2234,6006,7016561,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Elvira Parada A,1
 2234,6006,7016571,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Elvira Parada A,2
 2234,6006,7016581,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Elvira Parada A,3
 2234,6006,7016591,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Elvira Parada A,4
 2234,6006,7016601,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Elvira Parada A,5
 2234,6006,7016611,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Elvira Parada A,6
+2234,6006,7016621,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Elvira Parada A,7
 2234,11068,7016771,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,16 de Julio,2
 2234,11068,7016781,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,16 de Julio,3
+2234,11068,7016791,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,16 de Julio,4
 2234,6010,7016901,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Unidad Educativa España,2
 2234,6010,7016911,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Unidad Educativa España,3
 2234,6010,7016931,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Unidad Educativa España,5
@@ -7027,6 +7201,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,25430,7018951,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. 24 de Marzo,3
 2234,25430,7018961,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. 24 de Marzo,4
 2234,25430,7018971,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. 24 de Marzo,5
+2234,25430,7018981,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. 24 de Marzo,6
 2234,25430,7019001,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. 24 de Marzo,8
 2234,7027,7019231,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. 26 De Septiembre,9
 2234,7027,7019261,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. 26 De Septiembre,12
@@ -7035,6 +7210,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,11057,7019481,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Progreso,2
 2234,11059,7019541,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Virgen De Guadalupe,5
 2234,11059,7019571,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Virgen De Guadalupe,8
+2234,11059,7019601,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Virgen De Guadalupe,11
 2234,11059,7019681,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Virgen De Guadalupe,19
 2234,26345,7019771,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U. E. Módulo El Trapiche,2
 2234,26345,7019781,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U. E. Módulo El Trapiche,3
@@ -7049,9 +7225,12 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,25661,7019881,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Libertad,5
 2234,11063,7020061,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. San Cayetano,14
 2234,11066,7020211,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Zaragoza,12
+2234,11064,7020331,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Los Cusis,5
+2234,11064,7020341,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Los Cusis,6
 2234,11064,7020361,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Los Cusis,8
 2234,11064,7020371,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Los Cusis,9
 2234,11064,7020431,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Los Cusis,15
+2234,11064,7020451,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Los Cusis,17
 2234,7024,7020461,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U. E. El Retoño,1
 2234,7024,7020471,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U. E. El Retoño,2
 2234,7024,7020491,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U. E. El Retoño,4
@@ -7071,8 +7250,11 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,25419,7021081,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Josefina Balsamo Los Pinos,5
 2234,25419,7021101,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Josefina Balsamo Los Pinos,7
 2234,25419,7021111,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Josefina Balsamo Los Pinos,8
+2234,25653,7021231,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Santa Cecilia,9
 2234,25653,7021261,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Santa Cecilia,12
 2234,11060,7021321,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Motacusal,2
+2234,7006,7021431,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. San Silvestre,11
+2234,7006,7021441,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. San Silvestre,12
 2234,7006,7021461,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. San Silvestre,14
 2234,7023,7021601,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Central Obrera Departamental,1
 2234,7023,7021631,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Central Obrera Departamental,4
@@ -7092,14 +7274,18 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,7023,7021781,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Central Obrera Departamental,19
 2234,7023,7021801,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Central Obrera Departamental,21
 2234,7023,7021811,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Central Obrera Departamental,22
+2234,7023,7021821,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Central Obrera Departamental,23
 2234,7023,7021841,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Central Obrera Departamental,25
+2234,7023,7021851,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Central Obrera Departamental,26
 2234,8017,7021901,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Primavera,5
+2234,8017,7021921,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Primavera,7
 2234,8017,7022001,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Primavera,15
 2234,8017,7022031,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Primavera,18
 2234,8017,7022041,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Primavera,19
 2234,8017,7022061,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Primavera,21
 2234,8017,7022081,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Primavera,23
 2234,8017,7022101,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Primavera,25
+2234,8017,7022111,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Primavera,26
 2234,8017,7022121,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Primavera,27
 2234,11072,7022131,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Florida Barba Chávez,1
 2234,11072,7022151,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Florida Barba Chávez,3
@@ -7108,9 +7294,11 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,11072,7022211,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Florida Barba Chávez,9
 2234,11073,7022521,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. 25 de Octubre,6
 2234,11073,7022531,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. 25 de Octubre,7
+2234,26406,7022571,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. 4 de Febrero,1
 2234,26406,7022581,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. 4 de Febrero,2
 2234,26406,7022591,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. 4 de Febrero,3
 2234,7018,7022661,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Guapilo Junin,5
+2234,7018,7022721,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Guapilo Junin,11
 2234,7018,7022761,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Guapilo Junin,15
 2234,7018,7022771,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Guapilo Junin,16
 2234,7018,7022791,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Guapilo Junin,18
@@ -7123,6 +7311,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,25654,7022901,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Pedro Rivero Mercado,10
 2234,25654,7022911,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Pedro Rivero Mercado,11
 2234,25654,7022921,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Pedro Rivero Mercado,12
+2234,25654,7022941,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Pedro Rivero Mercado,14
 2234,25654,7022951,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Pedro Rivero Mercado,15
 2234,25654,7022961,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Pedro Rivero Mercado,16
 2234,25654,7022971,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Pedro Rivero Mercado,17
@@ -7149,8 +7338,12 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,8026,7023471,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. El Buen Samaritano,11
 2234,8026,7023481,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. El Buen Samaritano,12
 2234,8026,7023501,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. El Buen Samaritano,14
+2234,8026,7023511,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. El Buen Samaritano,15
 2234,8026,7023521,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. El Buen Samaritano,16
 2234,8026,7023531,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. El Buen Samaritano,17
+2234,8026,7023541,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. El Buen Samaritano,18
+2234,8026,7023561,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. El Buen Samaritano,20
+2234,11086,7023571,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. San Juan Bautista,1
 2234,7019,7023721,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Madre Clara Ricci (Jesus Roman Vaca,7
 2234,7019,7023751,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Madre Clara Ricci (Jesus Roman Vaca,10
 2234,7019,7023761,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Madre Clara Ricci (Jesus Roman Vaca,11
@@ -7201,10 +7394,13 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,25664,7025031,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. 1ro. De Mayo,7
 2234,26424,7025051,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,12 de Abril (Modulo 20 de Junio),2
 2234,26424,7025071,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,12 de Abril (Modulo 20 de Junio),4
+2234,26424,7025081,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,12 de Abril (Modulo 20 de Junio),5
+2234,26424,7025091,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,12 de Abril (Modulo 20 de Junio),6
 2234,26424,7025111,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,12 de Abril (Modulo 20 de Junio),8
 2234,26424,7025151,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,12 de Abril (Modulo 20 de Junio),12
 2234,26424,7025171,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,12 de Abril (Modulo 20 de Junio),14
 2234,26424,7025181,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,12 de Abril (Modulo 20 de Junio),15
+2234,26425,7025201,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. San Martin de Porres,1
 2234,7020,7025371,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Humberto Eguez,2
 2234,7020,7025381,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Humberto Eguez,3
 2234,7020,7025391,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Humberto Eguez,4
@@ -7225,14 +7421,20 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,7009,7025601,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Gilberto Menacho,6
 2234,7009,7025671,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Gilberto Menacho,13
 2234,7009,7025681,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Gilberto Menacho,14
+2234,7009,7025691,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Gilberto Menacho,15
+2234,7009,7025701,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Gilberto Menacho,16
+2234,7009,7025711,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Gilberto Menacho,17
+2234,7009,7025721,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Gilberto Menacho,18
 2234,25433,7025741,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Kinder Libertad,2
 2234,25433,7025751,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Kinder Libertad,3
 2234,7008,7025841,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. 27 de mayo,8
 2234,7008,7025851,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. 27 de mayo,9
+2234,7008,7025861,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. 27 de mayo,10
 2234,7008,7025871,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. 27 de mayo,11
 2234,7010,7025971,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E.  Kinder 27 de Mayo,8
 2234,7010,7025981,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E.  Kinder 27 de Mayo,9
 2234,7010,7025991,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E.  Kinder 27 de Mayo,10
+2234,7007,7026151,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Angela Pinckert,12
 2234,7007,7026171,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Angela Pinckert,14
 2234,7007,7026281,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Angela Pinckert,25
 2234,7007,7026291,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Angela Pinckert,26
@@ -7241,6 +7443,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,7007,7026321,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Angela Pinckert,29
 2234,7007,7026331,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Angela Pinckert,30
 2234,7000,7026351,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Educativo San Isidro,2
+2234,7000,7026361,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Educativo San Isidro,3
 2234,7000,7026371,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Educativo San Isidro,4
 2234,7000,7026381,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Educativo San Isidro,5
 2234,7000,7026391,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Educativo San Isidro,6
@@ -7260,7 +7463,10 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,7000,7026561,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Educativo San Isidro,23
 2234,7000,7026571,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Educativo San Isidro,24
 2234,7000,7026581,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Educativo San Isidro,25
+2234,7000,7026601,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Educativo San Isidro,27
 2234,7000,7026611,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Educativo San Isidro,28
+2234,7017,7026631,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Nimia Centella,2
+2234,7017,7026651,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Nimia Centella,4
 2234,7017,7026741,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Nimia Centella,13
 2234,7017,7026751,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Nimia Centella,14
 2234,7017,7026771,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Nimia Centella,16
@@ -7272,18 +7478,25 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,8004,7027101,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Cañada Pailitas,2
 2234,8004,7027131,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Cañada Pailitas,5
 2234,8004,7027191,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Cañada Pailitas,11
+2234,8007,7027251,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. 25 de Diciembre,4
 2234,8007,7027261,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. 25 de Diciembre,5
 2234,11058,7027331,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. 2 de Abril,1
 2234,11058,7027341,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. 2 de Abril,2
+2234,11058,7027351,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. 2 de Abril,3
+2234,11058,7027361,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. 2 de Abril,4
+2234,11058,7027371,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. 2 de Abril,5
+2234,11058,7027381,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. 2 de Abril,6
 2234,8008,7027391,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Simon Bolivar,1
 2234,8008,7027411,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Simon Bolivar,3
 2234,8008,7027431,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Simon Bolivar,5
 2234,8008,7027451,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Simon Bolivar,7
 2234,8008,7027461,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Simon Bolivar,8
+2234,8008,7027591,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Simon Bolivar,21
 2234,8010,7027721,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Villa Gladys Theveneth,11
 2234,26407,7027851,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Tecnológico Productivo Plan 3000,1
 2234,26407,7027861,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Tecnológico Productivo Plan 3000,2
 2234,32269,7027871,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Nueva América A,1
+2234,32269,7027881,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Nueva América A,2
 2234,32269,7027891,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Nueva América A,3
 2234,8006,7027911,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. 12 de Diciembre,1
 2234,8006,7027921,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. 12 de Diciembre,2
@@ -7352,13 +7565,17 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,3028,7029321,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Cupeso De Los Reyes,4
 2234,3028,7029331,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Cupeso De Los Reyes,5
 2234,3028,7029341,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Cupeso De Los Reyes,6
+2234,3028,7029351,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Cupeso De Los Reyes,7
+2234,3028,7029381,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Cupeso De Los Reyes,10
 2234,25662,7029631,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Luis Melgar I,9
 2234,25662,7029641,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Luis Melgar I,10
+2234,25662,7029671,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Luis Melgar I,13
 2234,25662,7029721,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Luis Melgar I,18
 2234,8012,7029871,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Maria Teresa Pulido,14
 2234,8012,7029881,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Maria Teresa Pulido,15
 2234,8012,7029891,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Maria Teresa Pulido,16
 2234,8012,7029911,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Maria Teresa Pulido,18
+2234,8012,7029921,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Maria Teresa Pulido,19
 2234,8016,7030231,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Esc. Virgen De Urkupina,15
 2234,25426,7030431,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. 26 de Junio,3
 2234,25426,7030441,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. 26 de Junio,4
@@ -7370,6 +7587,8 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,25657,7030861,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Luz del Mundo  A,5
 2234,25657,7030871,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Luz del Mundo  A,6
 2234,25657,7030881,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Luz del Mundo  A,7
+2234,25657,7030961,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Luz del Mundo  A,15
+2234,25657,7031001,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Luz del Mundo  A,19
 2234,25657,7031011,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Luz del Mundo  A,20
 2234,25657,7031021,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Luz del Mundo  A,21
 2234,25657,7031031,32,BOLIVIA,7,Santa Cruz,48,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Luz del Mundo  A,22
@@ -7391,8 +7610,10 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,32027,7032151,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Normandia Thevenet,8
 2234,32027,7032161,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Normandia Thevenet,9
 2234,32027,7032171,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Normandia Thevenet,10
+2234,3024,7032241,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Arroyito,7
 2234,3024,7032251,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Arroyito,8
 2234,3024,7032261,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Arroyito,9
+2234,3024,7032271,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Arroyito,10
 2234,8002,7032291,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Martin Sapp,1
 2234,8002,7032301,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Martin Sapp,2
 2234,8002,7032311,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Martin Sapp,3
@@ -7401,6 +7622,9 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,8002,7032341,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Martin Sapp,6
 2234,8002,7032351,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Martin Sapp,7
 2234,8002,7032371,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Martin Sapp,9
+2234,25677,7032451,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Bautista Vida Nueva,7
+2234,11050,7032531,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Niño Jesús IV,1
+2234,11050,7032541,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Niño Jesús IV,2
 2234,11050,7032611,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Niño Jesús IV,9
 2234,11050,7032621,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Niño Jesús IV,10
 2234,11050,7032631,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Niño Jesús IV,11
@@ -7433,6 +7657,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,9007,7033531,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Centro Educativo Caritas,1
 2234,9007,7033551,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Centro Educativo Caritas,3
 2234,9007,7033561,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Centro Educativo Caritas,4
+2234,9007,7033571,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Centro Educativo Caritas,5
 2234,9007,7033601,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Centro Educativo Caritas,8
 2234,9007,7033611,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Centro Educativo Caritas,9
 2234,9007,7033621,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Centro Educativo Caritas,10
@@ -7448,10 +7673,15 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,26338,7033791,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U. E. Libertador Simón Bolívar,1
 2234,26338,7033801,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U. E. Libertador Simón Bolívar,2
 2234,26338,7033811,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U. E. Libertador Simón Bolívar,3
+2234,26338,7033821,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U. E. Libertador Simón Bolívar,4
 2234,26338,7033831,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U. E. Libertador Simón Bolívar,5
 2234,26338,7033841,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U. E. Libertador Simón Bolívar,6
 2234,9008,7033901,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Domingo Savio   Don Bosco,6
+2234,9008,7033921,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Domingo Savio   Don Bosco,8
+2234,9008,7033931,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Domingo Savio   Don Bosco,9
+2234,9008,7033941,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Domingo Savio   Don Bosco,10
 2234,9008,7033961,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Domingo Savio   Don Bosco,12
+2234,9008,7033971,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Domingo Savio   Don Bosco,13
 2234,9008,7034021,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Domingo Savio   Don Bosco,18
 2234,9008,7034071,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Domingo Savio   Don Bosco,23
 2234,9008,7034081,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Domingo Savio   Don Bosco,24
@@ -7461,6 +7691,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,11077,7034181,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Universitario Sur,2
 2234,11077,7034201,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Universitario Sur,4
 2234,11077,7034231,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Universitario Sur,7
+2234,11077,7034241,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Universitario Sur,8
 2234,11077,7034251,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Universitario Sur,9
 2234,19,7034291,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Marcelino Champagnat,3
 2234,19,7034301,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Marcelino Champagnat,4
@@ -7477,6 +7708,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,22,7034511,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Part. Alfred B. Nobel,10
 2234,11051,7034781,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Las Americas II,5
 2234,11051,7034801,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Las Americas II,7
+2234,11051,7034831,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Las Americas II,10
 2234,11051,7034921,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Las Americas II,19
 2234,25440,7035071,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Victoria Diez,4
 2234,25440,7035111,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Victoria Diez,8
@@ -7490,7 +7722,10 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,10039,7035401,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Esc. Honorato Mejia,4
 2234,10039,7035411,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Esc. Honorato Mejia,5
 2234,10039,7035421,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Esc. Honorato Mejia,6
+2234,10039,7035501,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Esc. Honorato Mejia,14
+2234,10002,7035751,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Unidad Educativa La Colina,1
 2234,10002,7035761,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Unidad Educativa La Colina,2
+2234,10002,7035771,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Unidad Educativa La Colina,3
 2234,10002,7035791,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Unidad Educativa La Colina,5
 2234,10002,7035801,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Unidad Educativa La Colina,6
 2234,10002,7035811,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Unidad Educativa La Colina,7
@@ -7569,6 +7804,8 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,10012,7037101,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Hermanos Cavanis,20
 2234,10012,7037111,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Hermanos Cavanis,21
 2234,10012,7037141,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Hermanos Cavanis,24
+2234,10012,7037151,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Hermanos Cavanis,25
+2234,25443,7037181,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Modulo Educativo Jardin Latino,3
 2234,25443,7037191,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Modulo Educativo Jardin Latino,4
 2234,25658,7037271,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. San Marcos,7
 2234,6,7037281,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Polifuncional Calama,1
@@ -7576,6 +7813,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,6,7037311,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Polifuncional Calama,4
 2234,6,7037321,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Polifuncional Calama,5
 2234,6,7037331,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Polifuncional Calama,6
+2234,10013,7037571,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Internacional (Bethesda),11
 2234,5,7037631,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Esc. Unzaga De La Vega,2
 2234,5,7037641,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Esc. Unzaga De La Vega,3
 2234,5,7037661,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Esc. Unzaga De La Vega,5
@@ -7622,6 +7860,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,9,7038411,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Esc. Tierras Nuevas El Carmen,22
 2234,9,7038421,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Esc. Tierras Nuevas El Carmen,23
 2234,9,7038431,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Esc. Tierras Nuevas El Carmen,24
+2234,11074,7038561,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Misiones De Jesus,7
 2234,25436,7038581,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Kinder Cariñosito,1
 2234,25436,7038591,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Kinder Cariñosito,2
 2234,25436,7038601,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Kinder Cariñosito,3
@@ -7636,6 +7875,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,25437,7038931,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Mateo Kuljis Llic II,4
 2234,10,7038951,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Oscar Arnulfo,2
 2234,10,7038971,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Oscar Arnulfo,4
+2234,10,7038981,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Oscar Arnulfo,5
 2234,10,7039031,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Oscar Arnulfo,10
 2234,10,7039041,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Oscar Arnulfo,11
 2234,10,7039051,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Oscar Arnulfo,12
@@ -7652,7 +7892,9 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,2006,7039461,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Latinoamericano,8
 2234,4005,7039481,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col.  Placido Molilna,1
 2234,4005,7039541,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col.  Placido Molilna,7
+2234,4005,7039551,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col.  Placido Molilna,8
 2234,4005,7039561,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col.  Placido Molilna,9
+2234,4005,7039571,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col.  Placido Molilna,10
 2234,4000,7039581,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Fe y Alegria La Merced,1
 2234,4000,7039591,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Fe y Alegria La Merced,2
 2234,4000,7039611,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Fe y Alegria La Merced,4
@@ -7666,6 +7908,9 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,4000,7039711,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Fe y Alegria La Merced,14
 2234,4000,7039721,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Fe y Alegria La Merced,15
 2234,26415,7039761,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. República Argentina A,2
+2234,1016,7039801,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Walter Suarez,4
+2234,1016,7039811,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Walter Suarez,5
+2234,1016,7039841,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Walter Suarez,8
 2234,1001,7039861,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Campus Universitario,2
 2234,1001,7039871,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Campus Universitario,3
 2234,1001,7039891,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Campus Universitario,5
@@ -7687,6 +7932,8 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,2003,7040351,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Gaston Guillaux,13
 2234,2003,7040371,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Gaston Guillaux,15
 2234,2003,7040381,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Gaston Guillaux,16
+2234,2026,7040431,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Instituto Americano Juan Wesley,4
+2234,2026,7040451,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Instituto Americano Juan Wesley,6
 2234,3017,7040641,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Nacional Salesiano,6
 2234,3017,7040651,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Nacional Salesiano,7
 2234,3017,7040661,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Nacional Salesiano,8
@@ -7694,10 +7941,13 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,11048,7040701,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Club De Leones,3
 2234,11048,7040741,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Club De Leones,7
 2234,11048,7040751,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Club De Leones,8
+2234,3001,7040841,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Don Bosco,3
 2234,3001,7040871,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Don Bosco,6
 2234,4018,7041011,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Club De Leones Nro.6,2
 2234,4018,7041021,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Club De Leones Nro.6,3
 2234,4018,7041031,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Club De Leones Nro.6,4
+2234,1005,7041111,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Gabriel Rene Moreno,1
+2234,1011,7041191,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Kinder Luisa Saucedo,1
 2234,1011,7041201,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Kinder Luisa Saucedo,2
 2234,1011,7041211,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Kinder Luisa Saucedo,3
 2234,1011,7041221,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Kinder Luisa Saucedo,4
@@ -7713,6 +7963,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,2027,7041361,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Romulo Herrera,6
 2234,2027,7041381,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Romulo Herrera,8
 2234,2027,7041391,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Romulo Herrera,9
+2234,2029,7041431,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Inst. Domingo Savio,3
 2234,3000,7041451,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Marista,1
 2234,3000,7041461,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Marista,2
 2234,3000,7041471,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Marista,3
@@ -7723,11 +7974,14 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,3020,7041561,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Basilio De Cuellar,3
 2234,3020,7041571,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Basilio De Cuellar,4
 2234,3020,7041581,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Basilio De Cuellar,5
+2234,3021,7041591,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Obispo Santistevan,1
 2234,3023,7041631,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Nacional Florida,1
 2234,3023,7041661,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Nacional Florida,4
 2234,3023,7041671,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Nacional Florida,5
 2234,3023,7041691,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Nacional Florida,7
+2234,4021,7041731,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Cardenal Cushing Jesus Maria,4
 2234,4021,7041741,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Cardenal Cushing Jesus Maria,5
+2234,4021,7041751,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Cardenal Cushing Jesus Maria,6
 2234,4021,7041761,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Cardenal Cushing Jesus Maria,7
 2234,4021,7041771,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Cardenal Cushing Jesus Maria,8
 2234,4022,7041781,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Esc. Coronel Ignacio Warnes,1
@@ -7736,6 +7990,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,4023,7041811,32,BOLIVIA,7,Santa Cruz,51,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Arz. Daniel Rivero,1
 2234,8001,7041831,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Esc. Roca Coronado,1
 2234,8001,7041861,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Esc. Roca Coronado,4
+2234,8001,7041871,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Esc. Roca Coronado,5
 2234,8001,7041881,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Esc. Roca Coronado,6
 2234,8001,7041891,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Esc. Roca Coronado,7
 2234,8001,7041901,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Esc. Roca Coronado,8
@@ -7748,22 +8003,30 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,10020,7042311,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Escuela El Fuerte,25
 2234,10020,7042321,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Escuela El Fuerte,26
 2234,10020,7042341,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Escuela El Fuerte,28
+2234,10020,7042351,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Escuela El Fuerte,29
 2234,10020,7042361,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Escuela El Fuerte,30
 2234,10020,7042371,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Escuela El Fuerte,31
 2234,10020,7042391,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Escuela El Fuerte,33
+2234,10020,7042401,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Escuela El Fuerte,34
 2234,26409,7042641,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Amsterdam I Primaria,1
 2234,26409,7042651,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Amsterdam I Primaria,2
+2234,25663,7043071,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Módulo Roca y Coronado,15
 2234,10023,7043391,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Ignacio Warnes,1
 2234,10023,7043401,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Ignacio Warnes,2
+2234,10023,7043411,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Ignacio Warnes,3
+2234,10023,7043421,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Ignacio Warnes,4
 2234,10023,7043451,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Ignacio Warnes,7
+2234,10023,7043551,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Ignacio Warnes,17
 2234,10024,7043921,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Modulo Nro.5 Elva Antelo Jordan,18
 2234,10024,7043931,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Modulo Nro.5 Elva Antelo Jordan,19
 2234,10024,7043951,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Modulo Nro.5 Elva Antelo Jordan,21
 2234,10024,7043961,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Modulo Nro.5 Elva Antelo Jordan,22
+2234,10040,7043971,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Luis Espinal Campos,1
 2234,10040,7043991,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Luis Espinal Campos,3
 2234,10040,7044001,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Luis Espinal Campos,4
 2234,10040,7044011,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Luis Espinal Campos,5
 2234,10040,7044031,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Luis Espinal Campos,7
+2234,10040,7044041,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Luis Espinal Campos,8
 2234,26411,7044281,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. La Ponderosa,1
 2234,9009,7044301,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Hernando Siles,2
 2234,9009,7044311,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Hernando Siles,3
@@ -7785,16 +8048,19 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,9010,7044851,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Esc. Peregrina Davalos,14
 2234,9010,7044871,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Esc. Peregrina Davalos,16
 2234,9010,7044881,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Esc. Peregrina Davalos,17
+2234,10031,7045051,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Esc. Max Fernandez Rojas B,1
 2234,10031,7045121,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Esc. Max Fernandez Rojas B,8
 2234,11081,7045221,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Rep. del Paraguay,3
 2234,11081,7045231,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Rep. del Paraguay,4
 2234,11081,7045241,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Rep. del Paraguay,5
 2234,10028,7045551,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Escuela Bolivia Holanda,1
+2234,10028,7045591,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Escuela Bolivia Holanda,5
 2234,10028,7045601,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Escuela Bolivia Holanda,6
 2234,10028,7045691,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Escuela Bolivia Holanda,15
 2234,10028,7045721,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Escuela Bolivia Holanda,18
 2234,10028,7045731,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Escuela Bolivia Holanda,19
 2234,10033,7046111,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Plan 4000,26
+2234,10033,7046121,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Plan 4000,27
 2234,10033,7046131,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Plan 4000,28
 2234,10033,7046141,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Plan 4000,29
 2234,10033,7046161,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Plan 4000,31
@@ -7805,8 +8071,11 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,10033,7046211,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Plan 4000,36
 2234,10033,7046221,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Plan 4000,37
 2234,10033,7046241,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Plan 4000,39
+2234,10026,7046311,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Luz Y Verdad,3
 2234,10026,7046351,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Luz Y Verdad,7
 2234,10026,7046391,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Luz Y Verdad,11
+2234,10026,7046401,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Luz Y Verdad,12
+2234,10041,7046511,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Esc. Holanda,11
 2234,10041,7046531,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Esc. Holanda,13
 2234,9001,7046571,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Cárcel Pública,3
 2234,9001,7046611,32,BOLIVIA,7,Santa Cruz,50,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Cárcel Pública,7
@@ -7820,8 +8089,14 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,11056,7046881,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Fuente Del Saber,8
 2234,11056,7046901,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Fuente Del Saber,10
 2234,11056,7046931,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Colegio Fuente Del Saber,13
+2234,11087,7046991,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. San Juan del Este,6
+2234,11088,7047111,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. 19 de Marzo,2
+2234,25475,7047411,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Manantial De Vida,6
+2234,25475,7047421,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Manantial De Vida,7
+2234,25475,7047471,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Manantial De Vida,12
 2234,25475,7047481,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Manantial De Vida,13
 2234,25475,7047491,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Manantial De Vida,14
+2234,25475,7047501,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Manantial De Vida,15
 2234,25656,7047661,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Paraíso de los Infantes,16
 2234,25656,7047671,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Paraíso de los Infantes,17
 2234,25656,7047691,32,BOLIVIA,7,Santa Cruz,49,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Paraíso de los Infantes,19
@@ -7829,6 +8104,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2239,1,7047761,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Guapilo,Escuela Seccional Guapilo,2
 2239,1,7047771,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Guapilo,Escuela Seccional Guapilo,3
 2239,1,7047781,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Guapilo,Escuela Seccional Guapilo,4
+2239,1,7047791,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Guapilo,Escuela Seccional Guapilo,5
 2239,1,7047871,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Guapilo,Escuela Seccional Guapilo,13
 2239,1,7047891,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Guapilo,Escuela Seccional Guapilo,15
 2239,1,7047901,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Guapilo,Escuela Seccional Guapilo,16
@@ -8249,9 +8525,11 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2526,32150,8003901,32,BOLIVIA,8,Beni,58,0,1,Cercado                                 ,1,Trinidad,Trinidad,U.E. Nacional 6 de Agosto,5
 2526,32150,8003911,32,BOLIVIA,8,Beni,58,0,1,Cercado                                 ,1,Trinidad,Trinidad,U.E. Nacional 6 de Agosto,6
 2527,1,8003921,32,BOLIVIA,8,Beni,58,0,1,Cercado                                 ,1,Trinidad,Loma Suárez,Esc. Loma Suarez,1
+2527,1,8003931,32,BOLIVIA,8,Beni,58,0,1,Cercado                                 ,1,Trinidad,Loma Suárez,Esc. Loma Suarez,2
 2527,1,8003951,32,BOLIVIA,8,Beni,58,0,1,Cercado                                 ,1,Trinidad,Loma Suárez,Esc. Loma Suarez,4
 2528,1,8003961,32,BOLIVIA,8,Beni,58,0,1,Cercado                                 ,1,Trinidad,Puerto Ballivián,Esc. Puerto Ballivian,1
 2529,1,8003971,32,BOLIVIA,8,Beni,58,0,1,Cercado                                 ,1,Trinidad,Puerto Almacén,Esc. Mayor Pedro Vaca Diez,1
+2529,1,8003981,32,BOLIVIA,8,Beni,58,0,1,Cercado                                 ,1,Trinidad,Puerto Almacén,Esc. Mayor Pedro Vaca Diez,2
 2529,1,8003991,32,BOLIVIA,8,Beni,58,0,1,Cercado                                 ,1,Trinidad,Puerto Almacén,Esc. Mayor Pedro Vaca Diez,3
 2534,1,8004001,32,BOLIVIA,8,Beni,58,0,1,Cercado                                 ,1,Trinidad,San Juan de Aguas Dulces,Esc. San Juan De Aguas Dulces,1
 3069,1,8004011,32,BOLIVIA,8,Beni,58,0,1,Cercado                                 ,1,Trinidad,Casarabe,Escuela Casarabe,1
@@ -8262,7 +8540,38 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 3125,1,8004061,32,BOLIVIA,8,Beni,58,0,1,Cercado                                 ,1,Trinidad,Puerto Barador,Esc. Puerto Varador,1
 3125,1,8004071,32,BOLIVIA,8,Beni,58,0,1,Cercado                                 ,1,Trinidad,Puerto Barador,Esc. Puerto Varador,2
 3125,1,8004081,32,BOLIVIA,8,Beni,58,0,1,Cercado                                 ,1,Trinidad,Puerto Barador,Esc. Puerto Varador,3
+3125,1,8004091,32,BOLIVIA,8,Beni,58,0,1,Cercado                                 ,1,Trinidad,Puerto Barador,Esc. Puerto Varador,4
+2530,2,8004101,32,BOLIVIA,8,Beni,61,0,1,Cercado                                 ,2,San Javier,San Javier,Escuela San Javier,1
+2530,2,8004111,32,BOLIVIA,8,Beni,61,0,1,Cercado                                 ,2,San Javier,San Javier,Escuela San Javier,2
 2532,2,8004121,32,BOLIVIA,8,Beni,61,0,1,Cercado                                 ,2,San Javier,Espíritu Santo,Escuela Espiritu Santo,1
+2535,2,8004131,32,BOLIVIA,8,Beni,0,6,1,Cercado                                 ,2,San Javier,San Pedro,Escuela San Pedro,1
+2535,2,8004141,32,BOLIVIA,8,Beni,0,6,1,Cercado                                 ,2,San Javier,San Pedro,Escuela San Pedro,2
+2539,2,8004161,32,BOLIVIA,8,Beni,61,0,1,Cercado                                 ,2,San Javier,Nueva Israel,Escuela Nueva Israel,1
+2539,2,8004171,32,BOLIVIA,8,Beni,61,0,1,Cercado                                 ,2,San Javier,Nueva Israel,Escuela Nueva Israel,2
+2539,2,8004181,32,BOLIVIA,8,Beni,61,0,1,Cercado                                 ,2,San Javier,Nueva Israel,Escuela Nueva Israel,3
+2539,2,8004191,32,BOLIVIA,8,Beni,61,0,1,Cercado                                 ,2,San Javier,Nueva Israel,Escuela Nueva Israel,4
+3126,2,8004201,32,BOLIVIA,8,Beni,61,0,1,Cercado                                 ,2,San Javier,Laguna Colorada,Escuela Laguna Colorada,1
+3340,1,8004211,32,BOLIVIA,8,Beni,61,0,1,Cercado                                 ,2,San Javier,Pedro Ignacio Muiba,Escuela Pedro Ignacio Muiba,1
+3340,1,8004221,32,BOLIVIA,8,Beni,61,0,1,Cercado                                 ,2,San Javier,Pedro Ignacio Muiba,Escuela Pedro Ignacio Muiba,2
+3867,1,8004231,32,BOLIVIA,8,Beni,61,0,1,Cercado                                 ,2,San Javier,La Curva,U.E. La Curva,1
+3867,1,8004241,32,BOLIVIA,8,Beni,61,0,1,Cercado                                 ,2,San Javier,La Curva,U.E. La Curva,2
+3867,1,8004251,32,BOLIVIA,8,Beni,61,0,1,Cercado                                 ,2,San Javier,La Curva,U.E. La Curva,3
+4172,25567,8004261,32,BOLIVIA,8,Beni,61,0,1,Cercado                                 ,2,San Javier,Villa Rodeo,U.E. Villa Rodeo,1
+2624,1,8012231,32,BOLIVIA,8,Beni,59,0,6,Marbán,1,Loreto,Loreto,Esc. Perfecta Vda. De Bejarano,1
+2624,1,8012241,32,BOLIVIA,8,Beni,59,0,6,Marbán,1,Loreto,Loreto,Esc. Perfecta Vda. De Bejarano,2
+2624,1,8012251,32,BOLIVIA,8,Beni,59,0,6,Marbán,1,Loreto,Loreto,Esc. Perfecta Vda. De Bejarano,3
+2626,1,8012271,32,BOLIVIA,8,Beni,59,0,6,Marbán,1,Loreto,Camiaco,Esc. Camiaco,1
+2626,1,8012281,32,BOLIVIA,8,Beni,59,0,6,Marbán,1,Loreto,Camiaco,Esc. Camiaco,2
+2631,1,8012301,32,BOLIVIA,8,Beni,59,0,6,Marbán,1,Loreto,Sachojere,Esc. Sachojere,1
+2631,1,8012311,32,BOLIVIA,8,Beni,59,0,6,Marbán,1,Loreto,Sachojere,Esc. Sachojere,2
+2633,1,8012371,32,BOLIVIA,8,Beni,59,0,6,Marbán,2,San Andrés,San Andrés,Esc. Humberto Velarde,1
+2633,1,8012381,32,BOLIVIA,8,Beni,59,0,6,Marbán,2,San Andrés,San Andrés,Esc. Humberto Velarde,2
+2634,1,8012391,32,BOLIVIA,8,Beni,59,0,6,Marbán,2,San Andrés,Perotó,Esc. Peroto,1
+2642,1,8012581,32,BOLIVIA,8,Beni,59,0,6,Marbán,2,San Andrés,San Lorenzo de Marban,Esc. San Lorenzo,1
+2643,1,8012591,32,BOLIVIA,8,Beni,59,0,6,Marbán,2,San Andrés,Villa Alba,Esc. Villa Alba,1
+2683,1,8012601,32,BOLIVIA,8,Beni,59,0,6,Marbán,2,San Andrés,Somopae,Esc. Somopae,1
+3276,1,8012671,32,BOLIVIA,8,Beni,59,0,6,Marbán,2,San Andrés,Elvira,Escuela Elvira,1
+3276,1,8012681,32,BOLIVIA,8,Beni,59,0,6,Marbán,2,San Andrés,Elvira,Escuela Elvira,2
 2751,13,9000011,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Nueva Esperanza,U.E. Nueva Esperanza,1
 2773,12,9000021,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U.E. German Busch,1
 2773,12,9000031,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U.E. German Busch,2
@@ -8444,11 +8753,27 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2773,26078,9001801,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U. E. Alfredo Ovando Candia,3
 4277,25963,9001811,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Mejillones,U.E. Mejillones,1
 4278,25964,9001821,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Villa Rosario,U. E. María Barzola,1
+1113,14,9001831,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,2,Porvenir,Porvenir,U.E. Mons. Santisteban,1
+1113,14,9001841,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,2,Porvenir,Porvenir,U.E. Mons. Santisteban,2
+1113,14,9001861,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,2,Porvenir,Porvenir,U.E. Mons. Santisteban,4
+1113,14,9001871,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,2,Porvenir,Porvenir,U.E. Mons. Santisteban,5
 1113,14,9001881,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,2,Porvenir,Porvenir,U.E. Mons. Santisteban,6
+1113,15,9001891,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,2,Porvenir,Porvenir,U.E. Bruno Racua,1
+1113,15,9001901,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,2,Porvenir,Porvenir,U.E. Bruno Racua,2
+1113,15,9001911,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,2,Porvenir,Porvenir,U.E. Bruno Racua,3
+1113,15,9001921,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,2,Porvenir,Porvenir,U.E. Bruno Racua,4
+1113,15,9001931,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,2,Porvenir,Porvenir,U.E. Bruno Racua,5
+1113,15,9001941,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,2,Porvenir,Porvenir,U.E. Bruno Racua,6
+1115,15,9001951,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,2,Porvenir,Villa Bella (km 6),U.E. Villa Bella,1
+1115,15,9001961,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,2,Porvenir,Villa Bella (km 6),U.E. Villa Bella,2
+2798,16,9001991,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,2,Porvenir,Campoana,U.E.  Gutembert Cruz,1
+2798,16,9002001,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,2,Porvenir,Campoana,U.E.  Gutembert Cruz,2
 4276,25962,9002011,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,2,Porvenir,Trinchera,U. E. Maranguapi,1
 4446,26366,9002021,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,2,Porvenir,Comunidad Campesina  5 de Agosto,U.E. 23 de Marzo,1
+1116,19,9002031,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,3,Bolpebra,San Pedro de Bolpebra,U.E. De Bolpebra,1
 1118,20,9002041,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,3,Bolpebra,Nareuda,U.E.  Genoveva Rios,1
 1118,20,9002051,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,3,Bolpebra,Nareuda,U.E.  Genoveva Rios,2
+1119,19,9002071,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,3,Bolpebra,Mukden,U.E. De Mukden,2
 3260,1,9002081,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,3,Bolpebra,Bioceánica,U.E. Bioceanica,1
 3261,1,9002091,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,3,Bolpebra,3 Arroyos,U.E. Tres Estrellas,1
 3407,1,9002101,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,3,Bolpebra,Litoral,U.E.  Santa Lucia,1
@@ -8474,8 +8799,12 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 1147,39,9002641,32,BOLIVIA,9,Pando,63,0,2,Manuripi                                ,3,Filadelfia,Buyuyo,U.E. Buyuyo,1
 3299,1,9002731,32,BOLIVIA,9,Pando,63,0,2,Manuripi                                ,3,Filadelfia,Soberania,U.E.  Juancito Pinto,1
 3299,1,9002741,32,BOLIVIA,9,Pando,63,0,2,Manuripi                                ,3,Filadelfia,Soberania,U.E.  Juancito Pinto,2
+3758,1,9002771,32,BOLIVIA,9,Pando,63,0,2,Manuripi                                ,3,Filadelfia,Nueva Alianza,U.E. Nueva Alianza,1
+3758,1,9002781,32,BOLIVIA,9,Pando,63,0,2,Manuripi                                ,3,Filadelfia,Nueva Alianza,U.E. Nueva Alianza,2
 3909,1,9002801,32,BOLIVIA,9,Pando,63,0,2,Manuripi                                ,3,Filadelfia,Ucia,U.E. Ucia,1
 4269,25955,9002811,32,BOLIVIA,9,Pando,63,0,2,Manuripi                                ,3,Filadelfia,Puerto Sucre,U. E. Puerto Sucre,1
+4269,25955,9002821,32,BOLIVIA,9,Pando,63,0,2,Manuripi                                ,3,Filadelfia,Puerto Sucre,U. E. Puerto Sucre,2
+4270,25956,9002831,32,BOLIVIA,9,Pando,63,0,2,Manuripi                                ,3,Filadelfia,11 de Septiembre,U. E. Arnoldo Gonzales,1
 3301,1,9003551,32,BOLIVIA,9,Pando,63,0,4,Abuná,1,Santa Rosa,1 de Mayo,U.E.  Zacarias Moreno,1
 3697,1,9003571,32,BOLIVIA,9,Pando,63,0,4,Abuná,1,Santa Rosa,Villa El Carmen,U.E. Augusto Gutierrez Banzer,1
 3759,1,9003581,32,BOLIVIA,9,Pando,63,0,4,Abuná,1,Santa Rosa,Nueva Esperanza(Urbanización Puerto Morales),U.E. Genoveva Ríos,1

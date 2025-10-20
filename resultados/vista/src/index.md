@@ -20,10 +20,11 @@ sidebar: false
 <div class="header">
   <div class="title">Bolivia 2025</div>
   <div class="subtitle">${v.texto.subtitulo}</div>
+  <div class="vuelta">${vueltaInput}</div>
   <div class="timestamp">Actualizado el ${formatos.fecha.format(new Date(timestamp))}</div>
   <div class="progreso">Contado al ${formatos.porcentaje(progreso)}</div>
   <div class="cambio_input">${vistaInput}</div>
-  <div class="descripcion">${v.texto.descripcion}</div>
+  <!-- <div class="descripcion">${v.texto.descripcion}</div> -->
   <div class="resultado_global">${resultado_global}</div>
   <div class="fuente">Fuentes: resultados del Sistema de Consolidación Oficial de Resultados de Cómputo y coordenadas del sistema GeoElectoral del Órgano Electoral Plurinacional.</div>
 </div>
@@ -34,6 +35,24 @@ sidebar: false
 const resultado_global = plotResultado(resultados_globales[vista], {
   fontSizeMultiplier: 0.8,
 });
+```
+
+```js
+
+```
+
+```js
+const vueltas = ["primera", "segunda"];
+const vueltas_folder = {
+  primera: "resultados/datos/",
+  segunda: "resultados/datos/segunda_vuelta/",
+};
+const vueltaInput = Inputs.radio(vueltas, {
+  value: "segunda",
+  required: true,
+  format: (d) => `${d} vuelta`,
+});
+const vuelta = Generators.input(vueltaInput);
 ```
 
 ```js
@@ -66,8 +85,7 @@ const vistas = {
       invert: 0,
     },
     texto: {
-      subtitulo:
-        "Votos para presidente dentro del país en la primera vuelta de elecciones generales",
+      subtitulo: "Votos para presidente",
       descripcion:
         "Votos válidos para presidente en recintos electorales dentro del país, donde el color de cada punto corresponde a la organización política ganadora y el tamaño al número relativo de votos válidos.",
     },
@@ -193,8 +211,7 @@ actualizarCSS(v.colores);
 
 ```js
 // Cargar datos
-const gh =
-  "https://raw.githubusercontent.com/datosbolivia/elecciones2025/refs/heads/main/resultados/datos/";
+const gh = `https://raw.githubusercontent.com/datosbolivia/elecciones2025/refs/heads/main/${vueltas_folder[vuelta]}`;
 const recintos = await d3.json(`${gh}recintos.geojson`);
 const resultados = await d3.json(`${gh}resultados.json`);
 const timestamp = await fetch(`${gh}timestamp`).then((r) => r.text());
@@ -239,7 +256,6 @@ const resultados_globales = {
   validos: resultadoGlobal(resultados, "r"),
   participacion: resultadoGlobal(resultados, "p"),
 };
-console.log(resultados_globales);
 ```
 
 ```js

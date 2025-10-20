@@ -12345,20 +12345,27 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 3387,1,5010511,32,BOLIVIA,5,Potosí,38,0,2,Bustillo,3,Llallagua,Saca Saca,Esc. Chiru Chiru,1
 3496,1,5010521,32,BOLIVIA,5,Potosí,38,0,2,Bustillo,3,Llallagua,Jisk'anqui,U.E. Elizardo Pérez,1
 3496,1,5010531,32,BOLIVIA,5,Potosí,38,0,2,Bustillo,3,Llallagua,Jisk'anqui,U.E. Elizardo Pérez,2
+1566,134,5012051,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,1,Colquechaca,Colquechaca,U. E. Junin,1
+1566,134,5012061,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,1,Colquechaca,Colquechaca,U. E. Junin,2
 1566,134,5012071,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,1,Colquechaca,Colquechaca,U. E. Junin,3
 1566,134,5012081,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,1,Colquechaca,Colquechaca,U. E. Junin,4
 1566,134,5012091,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,1,Colquechaca,Colquechaca,U. E. Junin,5
 1566,134,5012101,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,1,Colquechaca,Colquechaca,U. E. Junin,6
 1566,134,5012111,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,1,Colquechaca,Colquechaca,U. E. Junin,7
 1566,134,5012121,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,1,Colquechaca,Colquechaca,U. E. Junin,8
+1566,134,5012131,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,1,Colquechaca,Colquechaca,U. E. Junin,9
+1566,31160,5012141,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,1,Colquechaca,Colquechaca,U. E. Roberto Hinojosa,1
 1566,31160,5012151,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,1,Colquechaca,Colquechaca,U. E. Roberto Hinojosa,2
 1566,31160,5012161,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,1,Colquechaca,Colquechaca,U. E. Roberto Hinojosa,3
 1566,31160,5012171,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,1,Colquechaca,Colquechaca,U. E. Roberto Hinojosa,4
 1566,31160,5012181,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,1,Colquechaca,Colquechaca,U. E. Roberto Hinojosa,5
+1566,31160,5012191,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,1,Colquechaca,Colquechaca,U. E. Roberto Hinojosa,6
 1575,143,5012231,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,1,Colquechaca,Rosario,U. E. Junin De Rosario,1
+1575,143,5012241,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,1,Colquechaca,Rosario,U. E. Junin De Rosario,2
 1575,143,5012251,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,1,Colquechaca,Rosario,U. E. Junin De Rosario,3
 3674,1,5012281,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,1,Colquechaca,Cayarani,U. E. Qayarani Mejillones 10 de Octubre,1
 3674,1,5012291,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,1,Colquechaca,Cayarani,U. E. Qayarani Mejillones 10 de Octubre,2
+3674,1,5012301,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,1,Colquechaca,Cayarani,U. E. Qayarani Mejillones 10 de Octubre,3
 4100,25509,5012371,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,1,Colquechaca,Collpacochi,U.E. Juana Azurduy De Padilla De San Lazaro,1
 1579,148,5012481,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,2,Ravelo,Pitantora,Esc. Pitantora,1
 1579,148,5012491,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,2,Ravelo,Pitantora,Esc. Pitantora,2
@@ -12367,6 +12374,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 1581,150,5012521,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,2,Ravelo,Antora,Esc. Antora,1
 1581,150,5012531,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,2,Ravelo,Antora,Esc. Antora,2
 2823,482,5012581,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,2,Ravelo,Rodeo Huayllas,Esc. Central Rodeo Huayllas,1
+2823,482,5012591,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,2,Ravelo,Rodeo Huayllas,Esc. Central Rodeo Huayllas,2
 2826,481,5012601,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,2,Ravelo,Molle Molle,Esc. Seccional Molle Molle,1
 2826,481,5012611,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,2,Ravelo,Molle Molle,Esc. Seccional Molle Molle,2
 2910,500,5012621,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,2,Ravelo,Luqui Pampa,Esc. Secc. Luqui Pampa,1
@@ -12376,11 +12384,13 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 3327,1,5012701,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,2,Ravelo,Saucy Mayu,Esc. Central Saucy Mayu,2
 3729,2,5012731,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,2,Ravelo,Sorocoto,Col. Jose Alonso De Ibañez,1
 3949,1,5012741,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,2,Ravelo,Janina,U.E. Janina,1
+3949,1,5012751,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,2,Ravelo,Janina,U.E. Janina,2
 3950,1,5012761,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,2,Ravelo,Challuma,Esc. Challuma,1
 1585,157,5012791,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,3,Pocoata,Pocoata,U. E. Pedro Gutierrez,1
 1585,157,5012801,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,3,Pocoata,Pocoata,U. E. Pedro Gutierrez,2
 1585,157,5012811,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,3,Pocoata,Pocoata,U. E. Pedro Gutierrez,3
 1585,157,5012821,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,3,Pocoata,Pocoata,U. E. Pedro Gutierrez,4
+1585,157,5012831,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,3,Pocoata,Pocoata,U. E. Pedro Gutierrez,5
 1585,157,5012841,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,3,Pocoata,Pocoata,U. E. Pedro Gutierrez,6
 1585,31153,5012851,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,3,Pocoata,Pocoata,U.E. 24 de Agosto,1
 1585,31153,5012861,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,3,Pocoata,Pocoata,U.E. 24 de Agosto,2
@@ -12388,6 +12398,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 1585,31153,5012881,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,3,Pocoata,Pocoata,U.E. 24 de Agosto,4
 1585,31153,5012891,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,3,Pocoata,Pocoata,U.E. 24 de Agosto,5
 1586,157,5012901,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,3,Pocoata,Jarana,U. E. Jarana,1
+1586,157,5012911,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,3,Pocoata,Jarana,U. E. Jarana,2
 1587,158,5012921,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,3,Pocoata,Comunidad Saye,U.E. Saye,1
 1588,159,5012931,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,3,Pocoata,Huancarani,U. E. Huancarani,1
 1588,159,5012941,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,3,Pocoata,Huancarani,U. E. Huancarani,2
@@ -12409,14 +12420,25 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2829,468,5013171,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,3,Pocoata,Villa Alcarapi,U. E. Villa Alcarapi,1
 2829,468,5013181,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,3,Pocoata,Villa Alcarapi,U. E. Villa Alcarapi,2
 3143,555,5013201,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,3,Pocoata,Pacotanca,U.E. Elizardo Pérez,1
+3501,1,5013281,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,3,Pocoata,Achacana,U. E. Achacana,1
 3501,1,5013291,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,3,Pocoata,Achacana,U. E. Achacana,2
 3945,1,5013301,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,3,Pocoata,Cachuyo,U. E. Cachuyo,1
+3945,1,5013311,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,3,Pocoata,Cachuyo,U. E. Cachuyo,2
 4461,26492,5013321,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,3,Pocoata,Corojti,U.E.Corojti,1
 4461,26492,5013331,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,3,Pocoata,Corojti,U.E.Corojti,2
 4573,32282,5013361,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,3,Pocoata,Totora,U.E. Totora,1
 4594,32336,5013371,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,3,Pocoata,Taracachi,U.E. Taracachi,1
+4594,32336,5013381,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,3,Pocoata,Taracachi,U.E. Taracachi,2
+4615,32384,5013391,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,3,Pocoata,Chacafuco,U.E. Chacafuco,1
+1568,136,5013641,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,5,San Pedro de Macha,Macha,U. E. Tomas Katari De Macha,1
+1568,136,5013651,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,5,San Pedro de Macha,Macha,U. E. Tomas Katari De Macha,2
+1568,136,5013661,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,5,San Pedro de Macha,Macha,U. E. Tomas Katari De Macha,3
+1568,136,5013671,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,5,San Pedro de Macha,Macha,U. E. Tomas Katari De Macha,4
 1568,136,5013681,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,5,San Pedro de Macha,Macha,U. E. Tomas Katari De Macha,5
+1568,136,5013691,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,5,San Pedro de Macha,Macha,U. E. Tomas Katari De Macha,6
+1568,136,5013701,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,5,San Pedro de Macha,Macha,U. E. Tomas Katari De Macha,7
 1568,136,5013711,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,5,San Pedro de Macha,Macha,U. E. Tomas Katari De Macha,8
+1568,136,5013721,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,5,San Pedro de Macha,Macha,U. E. Tomas Katari De Macha,9
 1569,139,5013731,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,5,San Pedro de Macha,Uluchi,U. E. Elizardo Perez,1
 1569,139,5013741,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,5,San Pedro de Macha,Uluchi,U. E. Elizardo Perez,2
 1569,139,5013751,32,BOLIVIA,5,Potosí,39,0,4,Chayanta                                ,5,San Pedro de Macha,Uluchi,U. E. Elizardo Perez,3
@@ -12620,9 +12642,20 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 1671,31142,5017531,32,BOLIVIA,5,Potosí,37,0,8,Sud Chichas,1,Tupiza,Tupiza,U. E. Chorolque,4
 1671,31142,5017541,32,BOLIVIA,5,Potosí,37,0,8,Sud Chichas,1,Tupiza,Tupiza,U. E. Chorolque,5
 1672,250,5017551,32,BOLIVIA,5,Potosí,37,0,8,Sud Chichas,1,Tupiza,Chifloca,U. E. Chifloca,1
+1680,260,5017691,32,BOLIVIA,5,Potosí,37,0,8,Sud Chichas,1,Tupiza,Talina,U. E. Prudencio Guillen,1
+1684,264,5017731,32,BOLIVIA,5,Potosí,37,0,8,Sud Chichas,1,Tupiza,Quiriza,U. E. Jose Luis San Juan Garcia de Quiriza,1
 1685,265,5017741,32,BOLIVIA,5,Potosí,37,0,8,Sud Chichas,1,Tupiza,Espicaya,U. E. Espicaya,1
+1686,266,5017751,32,BOLIVIA,5,Potosí,37,0,8,Sud Chichas,1,Tupiza,Chaco Pampa,U. E. Chacopampa,1
+1686,266,5017761,32,BOLIVIA,5,Potosí,37,0,8,Sud Chichas,1,Tupiza,Chaco Pampa,U. E. Chacopampa,2
+1687,267,5017771,32,BOLIVIA,5,Potosí,37,0,8,Sud Chichas,1,Tupiza,Titi Hoyo,U. E. Titihoyo,1
+1688,268,5017781,32,BOLIVIA,5,Potosí,37,0,8,Sud Chichas,1,Tupiza,San José de Pampa Grande,U. E. Gral. Rufino Carrasco,1
+1688,268,5017791,32,BOLIVIA,5,Potosí,37,0,8,Sud Chichas,1,Tupiza,San José de Pampa Grande,U. E. Gral. Rufino Carrasco,2
+1691,271,5017821,32,BOLIVIA,5,Potosí,37,0,8,Sud Chichas,1,Tupiza,Estarca,U. E. Estarca,1
 2667,492,5017941,32,BOLIVIA,5,Potosí,37,0,8,Sud Chichas,1,Tupiza,Tapaxa,U. E. Tapaxa,1
+2668,273,5017951,32,BOLIVIA,5,Potosí,37,0,8,Sud Chichas,1,Tupiza,Huariraca,U. E. Huariraca,1
+4081,25487,5018021,32,BOLIVIA,5,Potosí,37,0,8,Sud Chichas,1,Tupiza,El Monte,U.E. 6 de Junio de el Monte,1
 1702,283,5018041,32,BOLIVIA,5,Potosí,36,0,8,Sud Chichas,2,Atocha,Atocha,U. E. Gregorio Pacheco,1
+1702,283,5018051,32,BOLIVIA,5,Potosí,36,0,8,Sud Chichas,2,Atocha,Atocha,U. E. Gregorio Pacheco,2
 1702,283,5018061,32,BOLIVIA,5,Potosí,36,0,8,Sud Chichas,2,Atocha,Atocha,U. E. Gregorio Pacheco,3
 1702,283,5018071,32,BOLIVIA,5,Potosí,36,0,8,Sud Chichas,2,Atocha,Atocha,U. E. Gregorio Pacheco,4
 1702,283,5018081,32,BOLIVIA,5,Potosí,36,0,8,Sud Chichas,2,Atocha,Atocha,U. E. Gregorio Pacheco,5
@@ -12630,6 +12663,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 1702,284,5018101,32,BOLIVIA,5,Potosí,36,0,8,Sud Chichas,2,Atocha,Atocha,U. E. Eduardo Abaroa,2
 1702,284,5018111,32,BOLIVIA,5,Potosí,36,0,8,Sud Chichas,2,Atocha,Atocha,U. E. Eduardo Abaroa,3
 1703,285,5018121,32,BOLIVIA,5,Potosí,36,0,8,Sud Chichas,2,Atocha,Telamayu,U. E. Bolivia,1
+1703,285,5018131,32,BOLIVIA,5,Potosí,36,0,8,Sud Chichas,2,Atocha,Telamayu,U. E. Bolivia,2
 1703,285,5018141,32,BOLIVIA,5,Potosí,36,0,8,Sud Chichas,2,Atocha,Telamayu,U. E. Bolivia,3
 1704,286,5018151,32,BOLIVIA,5,Potosí,36,0,8,Sud Chichas,2,Atocha,Gran Chocaya,U. E. Hernan Siles Zuazo,1
 1705,287,5018161,32,BOLIVIA,5,Potosí,36,0,8,Sud Chichas,2,Atocha,Animas,U. E. Mcal. Sucre,1
@@ -12637,8 +12671,10 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 1705,287,5018181,32,BOLIVIA,5,Potosí,36,0,8,Sud Chichas,2,Atocha,Animas,U. E. Mcal. Sucre,3
 1705,287,5018191,32,BOLIVIA,5,Potosí,36,0,8,Sud Chichas,2,Atocha,Animas,U. E. Mcal. Sucre,4
 1706,288,5018201,32,BOLIVIA,5,Potosí,36,0,8,Sud Chichas,2,Atocha,Siete Suyos,U. E. Daniel Campos,1
+1706,288,5018211,32,BOLIVIA,5,Potosí,36,0,8,Sud Chichas,2,Atocha,Siete Suyos,U. E. Daniel Campos,2
 1706,288,5018221,32,BOLIVIA,5,Potosí,36,0,8,Sud Chichas,2,Atocha,Siete Suyos,U. E. Daniel Campos,3
 1707,289,5018231,32,BOLIVIA,5,Potosí,36,0,8,Sud Chichas,2,Atocha,Portugalete,Esc. Portugalete,1
+1707,289,5018241,32,BOLIVIA,5,Potosí,36,0,8,Sud Chichas,2,Atocha,Portugalete,Esc. Portugalete,2
 1708,25450,5018251,32,BOLIVIA,5,Potosí,36,0,8,Sud Chichas,2,Atocha,Santa Barbara,Col. Chorolque,1
 1708,25450,5018261,32,BOLIVIA,5,Potosí,36,0,8,Sud Chichas,2,Atocha,Santa Barbara,Col. Chorolque,2
 1708,25450,5018271,32,BOLIVIA,5,Potosí,36,0,8,Sud Chichas,2,Atocha,Santa Barbara,Col. Chorolque,3
@@ -12697,19 +12733,43 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 1743,330,5019021,32,BOLIVIA,5,Potosí,36,0,10,Sud Lipez,3,San Antonio de Esmoruco,San Antonio de Esmoruco,U.E. Calama de San Antonio de Esmoruco,2
 3039,527,5019031,32,BOLIVIA,5,Potosí,36,0,10,Sud Lipez,3,San Antonio de Esmoruco,Rio Chilenas,U.E. Río Chilenas,1
 1744,332,5019061,32,BOLIVIA,5,Potosí,35,0,11,José María Linares,1,Puna,Puna(C.Villa Talavera),Esc. Jose Maria Linares,1
+1744,332,5019071,32,BOLIVIA,5,Potosí,35,0,11,José María Linares,1,Puna,Puna(C.Villa Talavera),Esc. Jose Maria Linares,2
+1744,332,5019081,32,BOLIVIA,5,Potosí,35,0,11,José María Linares,1,Puna,Puna(C.Villa Talavera),Esc. Jose Maria Linares,3
+1744,332,5019091,32,BOLIVIA,5,Potosí,35,0,11,José María Linares,1,Puna,Puna(C.Villa Talavera),Esc. Jose Maria Linares,4
+1744,332,5019101,32,BOLIVIA,5,Potosí,35,0,11,José María Linares,1,Puna,Puna(C.Villa Talavera),Esc. Jose Maria Linares,5
+1744,333,5019111,32,BOLIVIA,5,Potosí,35,0,11,José María Linares,1,Puna,Puna(C.Villa Talavera),Coleg. Litoral,1
+1744,333,5019121,32,BOLIVIA,5,Potosí,35,0,11,José María Linares,1,Puna,Puna(C.Villa Talavera),Coleg. Litoral,2
 1744,333,5019131,32,BOLIVIA,5,Potosí,35,0,11,José María Linares,1,Puna,Puna(C.Villa Talavera),Coleg. Litoral,3
+1744,333,5019141,32,BOLIVIA,5,Potosí,35,0,11,José María Linares,1,Puna,Puna(C.Villa Talavera),Coleg. Litoral,4
+1744,333,5019151,32,BOLIVIA,5,Potosí,35,0,11,José María Linares,1,Puna,Puna(C.Villa Talavera),Coleg. Litoral,5
+1745,334,5019161,32,BOLIVIA,5,Potosí,35,0,11,José María Linares,1,Puna,Yascapi,Esc. Yascapi,1
 1747,336,5019221,32,BOLIVIA,5,Potosí,35,0,11,José María Linares,1,Puna,Miculpaya,U.E. Miculpaya,1
 1747,336,5019231,32,BOLIVIA,5,Potosí,35,0,11,José María Linares,1,Puna,Miculpaya,U.E. Miculpaya,2
 1748,337,5019241,32,BOLIVIA,5,Potosí,35,0,11,José María Linares,1,Puna,Marasa,U.E. Jose Alonso De Ibañez,1
+1749,338,5019251,32,BOLIVIA,5,Potosí,35,0,11,José María Linares,1,Puna,San Lorenzo,U.E. Luis Espinal De San Lorenzo,1
+1750,339,5019261,32,BOLIVIA,5,Potosí,35,0,11,José María Linares,1,Puna,Suquicha,U.E. Fray Franco Valli Brogi De Suquicha,1
+1750,339,5019271,32,BOLIVIA,5,Potosí,35,0,11,José María Linares,1,Puna,Suquicha,U.E. Fray Franco Valli Brogi De Suquicha,2
 1751,340,5019281,32,BOLIVIA,5,Potosí,35,0,11,José María Linares,1,Puna,Esmeralda Baja,U.E. 20 de Octubre,1
 1751,340,5019291,32,BOLIVIA,5,Potosí,35,0,11,José María Linares,1,Puna,Esmeralda Baja,U.E. 20 de Octubre,2
+1753,342,5019301,32,BOLIVIA,5,Potosí,35,0,11,José María Linares,1,Puna,Otavi,U.E. Otavi Simon Bolivar,1
 1753,342,5019311,32,BOLIVIA,5,Potosí,35,0,11,José María Linares,1,Puna,Otavi,U.E. Otavi Simon Bolivar,2
 1753,342,5019321,32,BOLIVIA,5,Potosí,35,0,11,José María Linares,1,Puna,Otavi,U.E. Otavi Simon Bolivar,3
+1754,343,5019331,32,BOLIVIA,5,Potosí,35,0,11,José María Linares,1,Puna,Kepallo,U.E. Mariscal Andres De Santa Cruz de Kepallo,1
+1754,343,5019341,32,BOLIVIA,5,Potosí,35,0,11,José María Linares,1,Puna,Kepallo,U.E. Mariscal Andres De Santa Cruz de Kepallo,2
+1755,344,5019351,32,BOLIVIA,5,Potosí,35,0,11,José María Linares,1,Puna,Nuqui,Esc. De Nuqui,1
+1755,344,5019361,32,BOLIVIA,5,Potosí,35,0,11,José María Linares,1,Puna,Nuqui,Esc. De Nuqui,2
+1760,349,5019401,32,BOLIVIA,5,Potosí,35,0,11,José María Linares,1,Puna,Vilacaya,U.E. Vilacaya,1
+1760,349,5019411,32,BOLIVIA,5,Potosí,35,0,11,José María Linares,1,Puna,Vilacaya,U.E. Vilacaya,2
 1766,355,5019421,32,BOLIVIA,5,Potosí,35,0,11,José María Linares,1,Puna,Chillcani (Zona D),U.E. German Busch,1
+2833,471,5019481,32,BOLIVIA,5,Potosí,35,0,11,José María Linares,1,Puna,Pampa Tambo,U.E. Pampa Tambo,1
+3042,531,5019491,32,BOLIVIA,5,Potosí,35,0,11,José María Linares,1,Puna,Molino Pampa,U.E. Molino Pampa,1
+3153,562,5019501,32,BOLIVIA,5,Potosí,35,0,11,José María Linares,1,Puna,Turquiña,U.E. Turquiña,1
 3154,563,5019511,32,BOLIVIA,5,Potosí,35,0,11,José María Linares,1,Puna,Chacabuco (Estancia Chinoli),U.E. Gerardo Maldini de Chacabuco (Estacion Chinoli),1
 3154,563,5019521,32,BOLIVIA,5,Potosí,35,0,11,José María Linares,1,Puna,Chacabuco (Estancia Chinoli),U.E. Gerardo Maldini de Chacabuco (Estacion Chinoli),2
 3274,1,5019531,32,BOLIVIA,5,Potosí,35,0,11,José María Linares,1,Puna,Capaña,U.E. Jose Maria Linares A,1
 3274,1,5019541,32,BOLIVIA,5,Potosí,35,0,11,José María Linares,1,Puna,Capaña,U.E. Jose Maria Linares A,2
+3392,1,5019551,32,BOLIVIA,5,Potosí,35,0,11,José María Linares,1,Puna,Vilamani,U.E. Vilamani,1
+1775,363,5019761,32,BOLIVIA,5,Potosí,35,0,11,José María Linares,2,"Caiza ""D""",Hornos,Esc. Hornos,1
 1775,363,5019771,32,BOLIVIA,5,Potosí,35,0,11,José María Linares,2,"Caiza ""D""",Hornos,Esc. Hornos,2
 1762,351,5019961,32,BOLIVIA,5,Potosí,35,0,11,José María Linares,3,Ckochas                                 ,Calapaya,Esc. De Calapaya,1
 1764,353,5020011,32,BOLIVIA,5,Potosí,35,0,11,José María Linares,3,Ckochas                                 ,Keluyo,U.E. Keluyo,1
@@ -12761,6 +12821,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 1778,25492,5020631,32,BOLIVIA,5,Potosí,36,0,12,Antonio Quijarro                        ,1,Uyuni,Uyuni,U.E. Miraflores,4
 1778,25492,5020641,32,BOLIVIA,5,Potosí,36,0,12,Antonio Quijarro                        ,1,Uyuni,Uyuni,U.E. Miraflores,5
 1778,25492,5020651,32,BOLIVIA,5,Potosí,36,0,12,Antonio Quijarro                        ,1,Uyuni,Uyuni,U.E. Miraflores,6
+1778,25492,5020661,32,BOLIVIA,5,Potosí,36,0,12,Antonio Quijarro                        ,1,Uyuni,Uyuni,U.E. Miraflores,7
 1778,25492,5020671,32,BOLIVIA,5,Potosí,36,0,12,Antonio Quijarro                        ,1,Uyuni,Uyuni,U.E. Miraflores,8
 1778,25492,5020681,32,BOLIVIA,5,Potosí,36,0,12,Antonio Quijarro                        ,1,Uyuni,Uyuni,U.E. Miraflores,9
 1778,25492,5020691,32,BOLIVIA,5,Potosí,36,0,12,Antonio Quijarro                        ,1,Uyuni,Uyuni,U.E. Miraflores,10
@@ -12843,6 +12904,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 1841,444,5022491,32,BOLIVIA,5,Potosí,37,0,15,Modesto Omiste                          ,1,Villazón,Villazón,U.E. 1ro de Mayo,18
 1841,467,5022501,32,BOLIVIA,5,Potosí,37,0,15,Modesto Omiste                          ,1,Villazón,Villazón,Esc. Daniel Campos,1
 1841,467,5022511,32,BOLIVIA,5,Potosí,37,0,15,Modesto Omiste                          ,1,Villazón,Villazón,Esc. Daniel Campos,2
+1841,467,5022521,32,BOLIVIA,5,Potosí,37,0,15,Modesto Omiste                          ,1,Villazón,Villazón,Esc. Daniel Campos,3
 1841,467,5022531,32,BOLIVIA,5,Potosí,37,0,15,Modesto Omiste                          ,1,Villazón,Villazón,Esc. Daniel Campos,4
 1841,467,5022541,32,BOLIVIA,5,Potosí,37,0,15,Modesto Omiste                          ,1,Villazón,Villazón,Esc. Daniel Campos,5
 1841,467,5022551,32,BOLIVIA,5,Potosí,37,0,15,Modesto Omiste                          ,1,Villazón,Villazón,Esc. Daniel Campos,6
@@ -12933,6 +12995,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 1841,31134,5023401,32,BOLIVIA,5,Potosí,37,0,15,Modesto Omiste                          ,1,Villazón,Villazón,U. E. Alonso de Ibáñez  B,5
 1841,31134,5023411,32,BOLIVIA,5,Potosí,37,0,15,Modesto Omiste                          ,1,Villazón,Villazón,U. E. Alonso de Ibáñez  B,6
 1854,460,5023711,32,BOLIVIA,5,Potosí,36,0,16,Enrique Baldivieso                      ,1,San Agustín,San Agustin,Esc. San Agustin,1
+1854,460,5023721,32,BOLIVIA,5,Potosí,36,0,16,Enrique Baldivieso                      ,1,San Agustín,San Agustin,Esc. San Agustin,2
 1855,461,5023731,32,BOLIVIA,5,Potosí,36,0,16,Enrique Baldivieso                      ,1,San Agustín,Alota,U.E. Litoral,1
 1855,461,5023741,32,BOLIVIA,5,Potosí,36,0,16,Enrique Baldivieso                      ,1,San Agustín,Alota,U.E. Litoral,2
 1856,25503,5023751,32,BOLIVIA,5,Potosí,36,0,16,Enrique Baldivieso                      ,1,San Agustín,Cerro Gordo,U.E. Unión Progreso,1

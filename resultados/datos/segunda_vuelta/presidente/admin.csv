@@ -1,10 +1,12 @@
 CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartamento,NombreDepartamento,CodigoCircunscripcionU,CodigoCircunscripcionE,CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,NombreLocalidad,NombreRecinto,NumeroMesa
 3804,25129,100014,4,Alemania,61,Berlín,0,0,1,Berlín,1,Berlín,Berlín,Embajada,1
+3611,25055,100034,11,Argentina,10,Buenos Aires,0,0,1,Buenos Aires,1,C.A. Buenos Aires,C.A. Buenos Aires,Esc. Primaria Común Nº 16 Presidente Bartolome Mitre,2
 3611,25055,100054,11,Argentina,10,Buenos Aires,0,0,1,Buenos Aires,1,C.A. Buenos Aires,C.A. Buenos Aires,Esc. Primaria Común Nº 16 Presidente Bartolome Mitre,4
 3611,25055,100064,11,Argentina,10,Buenos Aires,0,0,1,Buenos Aires,1,C.A. Buenos Aires,C.A. Buenos Aires,Esc. Primaria Común Nº 16 Presidente Bartolome Mitre,5
 3611,25055,100094,11,Argentina,10,Buenos Aires,0,0,1,Buenos Aires,1,C.A. Buenos Aires,C.A. Buenos Aires,Esc. Primaria Común Nº 16 Presidente Bartolome Mitre,8
 3611,25055,100114,11,Argentina,10,Buenos Aires,0,0,1,Buenos Aires,1,C.A. Buenos Aires,C.A. Buenos Aires,Esc. Primaria Común Nº 16 Presidente Bartolome Mitre,10
 3611,25056,100184,11,Argentina,10,Buenos Aires,0,0,1,Buenos Aires,1,C.A. Buenos Aires,C.A. Buenos Aires,Esc. De Educación Media N° 02/13° Escuela del Parque,7
+3611,25158,100584,11,Argentina,10,Buenos Aires,0,0,1,Buenos Aires,1,C.A. Buenos Aires,C.A. Buenos Aires,Colegio Nº 18 Dr. Alberto Larroque,8
 3611,25160,100644,11,Argentina,10,Buenos Aires,0,0,1,Buenos Aires,1,C.A. Buenos Aires,C.A. Buenos Aires,Escuela N° 12 De 19 José Enrique Rodo,9
 3611,25164,100924,11,Argentina,10,Buenos Aires,0,0,1,Buenos Aires,1,C.A. Buenos Aires,C.A. Buenos Aires,Escuela N° 4 De 11 Benjamín Zorrila,6
 3611,25167,101124,11,Argentina,10,Buenos Aires,0,0,1,Buenos Aires,1,C.A. Buenos Aires,C.A. Buenos Aires,Escuela De Jornada Simple Nº 07 D.E. 18 Republica Arabe de Egipto,3
@@ -14,6 +16,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 3611,25173,101484,11,Argentina,10,Buenos Aires,0,0,1,Buenos Aires,1,C.A. Buenos Aires,C.A. Buenos Aires,Escuela N° 3 De 20 Republica Francesa,8
 3611,25173,101494,11,Argentina,10,Buenos Aires,0,0,1,Buenos Aires,1,C.A. Buenos Aires,C.A. Buenos Aires,Escuela N° 3 De 20 Republica Francesa,9
 3611,25174,101544,11,Argentina,10,Buenos Aires,0,0,1,Buenos Aires,1,C.A. Buenos Aires,C.A. Buenos Aires,Escuela Jornada Simple  N° 22 De 13 Santa Maria de Bs. As,5
+3611,25174,101594,11,Argentina,10,Buenos Aires,0,0,1,Buenos Aires,1,C.A. Buenos Aires,C.A. Buenos Aires,Escuela Jornada Simple  N° 22 De 13 Santa Maria de Bs. As,10
 3611,25175,101604,11,Argentina,10,Buenos Aires,0,0,1,Buenos Aires,1,C.A. Buenos Aires,C.A. Buenos Aires,Escuela N° 16  de 13 Dr. Tomás A. Le Bretón,1
 3611,25189,101684,11,Argentina,10,Buenos Aires,0,0,1,Buenos Aires,1,C.A. Buenos Aires,C.A. Buenos Aires,Escuela de Jornada Completa Nº 16 D.E. 05 Sabina Bove de Bozalla,4
 4129,25192,101874,11,Argentina,10,Buenos Aires,0,0,2,Ituzaingó,1,Ituzaingó,Ituzaingó,Esc Primaria Nro 3 Jose Manuel Estrada,6
@@ -21,6 +24,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 4129,25192,101894,11,Argentina,10,Buenos Aires,0,0,2,Ituzaingó,1,Ituzaingó,Ituzaingó,Esc Primaria Nro 3 Jose Manuel Estrada,8
 4129,25192,101914,11,Argentina,10,Buenos Aires,0,0,2,Ituzaingó,1,Ituzaingó,Ituzaingó,Esc Primaria Nro 3 Jose Manuel Estrada,2
 4130,25176,102124,11,Argentina,10,Buenos Aires,0,0,3,La Matanza,1,La Matanza,Villa Celina,Escuela Primaria Nº 97 Juana Manso De Noronha,3
+4130,25176,102154,11,Argentina,10,Buenos Aires,0,0,3,La Matanza,1,La Matanza,Villa Celina,Escuela Primaria Nº 97 Juana Manso De Noronha,6
 4130,25177,102314,11,Argentina,10,Buenos Aires,0,0,3,La Matanza,1,La Matanza,Villa Celina,Escuela de Educación Primaria  Nº 138  Comandante Luis Piedrabuena (Centro de Educación Física CEF 112),6
 4132,25180,102544,11,Argentina,10,Buenos Aires,0,0,3,La Matanza,1,La Matanza,Gregorio de Laferrere,Escuela Primaria Nº 19,1
 4132,25180,102614,11,Argentina,10,Buenos Aires,0,0,3,La Matanza,1,La Matanza,Gregorio de Laferrere,Escuela Primaria Nº 19,8
@@ -30,8 +34,10 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 4133,25182,102784,11,Argentina,10,Buenos Aires,0,0,3,La Matanza,1,La Matanza,San Justo,Anexo I De Escuela Secundaria Nº11,8
 4134,25183,102804,11,Argentina,10,Buenos Aires,0,0,3,La Matanza,1,La Matanza,González Catán,Escuela Secundaria Nº51,1
 4134,25183,102854,11,Argentina,10,Buenos Aires,0,0,3,La Matanza,1,La Matanza,González Catán,Escuela Secundaria Nº51,6
+4134,25183,102864,11,Argentina,10,Buenos Aires,0,0,3,La Matanza,1,La Matanza,González Catán,Escuela Secundaria Nº51,7
 4135,25185,103044,11,Argentina,10,Buenos Aires,0,0,4,Esteban Echeverría,1,Esteban Echeverría,Nueve de Abril,Escuela De Educación Primaria N°16 República Francesa,7
 4135,25185,103074,11,Argentina,10,Buenos Aires,0,0,4,Esteban Echeverría,1,Esteban Echeverría,Nueve de Abril,Escuela De Educación Primaria N°16 República Francesa,10
+4136,25062,103104,11,Argentina,10,Buenos Aires,0,0,5,Lomas de Zamora,1,Lomas de Zamora,Ingeniero Budge,Escuela EGB Nro. 12 Primera Junta,4
 4136,25062,103164,11,Argentina,10,Buenos Aires,0,0,5,Lomas de Zamora,1,Lomas de Zamora,Ingeniero Budge,Escuela EGB Nro. 12 Primera Junta,1
 4139,25186,103414,11,Argentina,10,Buenos Aires,0,0,7,Quilmes,1,Quilmes,Ezpeleta,Esc Primaria Nro 52 Gral. Bartolome Mitre.,1
 4140,25187,103624,11,Argentina,10,Buenos Aires,0,0,8,La Plata,1,La Plata,La Plata,Escuela Primaria N°5 Cnl. De Marina Tomas Espora,3
@@ -39,11 +45,14 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 4141,25146,103814,11,Argentina,10,Buenos Aires,0,0,9,Escobar,1,Escobar,Belén de Escobar,E.P N°28 Juan Jose Castelli,6
 4142,25147,103954,11,Argentina,10,Buenos Aires,0,0,10,Pilar,1,Pilar,Pilar,Escuela De Educación Primaria Nº26 Lorenzo López,12
 4371,26083,104054,11,Argentina,10,Buenos Aires,0,0,14,Pinamar,1,Pinamar,Pinamar,Escuela Primaria N 7 de Ostende Pinamar,3
+4371,26083,104064,11,Argentina,10,Buenos Aires,0,0,14,Pinamar,1,Pinamar,Pinamar,Escuela Primaria N 7 de Ostende Pinamar,4
 4143,25148,104224,11,Argentina,11,Mendoza,0,0,3,Maipú,1,Maipú,Rodeo del Medio,Escuela “John Fitzgerald Kennedy”,1
 4143,25148,104264,11,Argentina,11,Mendoza,0,0,3,Maipú,1,Maipú,Rodeo del Medio,Escuela “John Fitzgerald Kennedy”,5
 4143,25148,104274,11,Argentina,11,Mendoza,0,0,3,Maipú,1,Maipú,Rodeo del Medio,Escuela “John Fitzgerald Kennedy”,6
+4143,25148,104324,11,Argentina,11,Mendoza,0,0,3,Maipú,1,Maipú,Rodeo del Medio,Escuela “John Fitzgerald Kennedy”,11
 4143,25148,104334,11,Argentina,11,Mendoza,0,0,3,Maipú,1,Maipú,Rodeo del Medio,Escuela “John Fitzgerald Kennedy”,12
 4144,25149,104364,11,Argentina,11,Mendoza,0,0,4,Luján de Cuyo,1,Luján de Cuyo,Ugarteche,Escuela Luis Baldini,3
+3613,25066,104544,11,Argentina,12,Jujuy,0,0,3,Dr. Manuel Belgrano,1,San Salvador de Jujuy,San Salvador de Jujuy,Escuela Normal Superior Juan Ignacio Gorriti,5
 3613,25066,104564,11,Argentina,12,Jujuy,0,0,3,Dr. Manuel Belgrano,1,San Salvador de Jujuy,San Salvador de Jujuy,Escuela Normal Superior Juan Ignacio Gorriti,19
 3613,25066,104664,11,Argentina,12,Jujuy,0,0,3,Dr. Manuel Belgrano,1,San Salvador de Jujuy,San Salvador de Jujuy,Escuela Normal Superior Juan Ignacio Gorriti,7
 4376,26088,104744,11,Argentina,12,Jujuy,0,0,5,El Carmen,1,Perico,Perico,Centro Integrador Comunitario (CIC),1
@@ -63,6 +72,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 4381,26093,105324,11,Argentina,90,San Juan,0,0,1,Pocito,1,Pocito,La Rinconada - Pocito,Escuela Dr. Antonio Aberastain School,1
 4381,26093,105334,11,Argentina,90,San Juan,0,0,1,Pocito,1,Pocito,La Rinconada - Pocito,Escuela Dr. Antonio Aberastain School,2
 4384,26096,105394,11,Argentina,92,Santa Cruz,0,0,2,Güer Aike,1,Güer Aike,Río Gallegos,Pastoral de Rio Gallegos,3
+4372,32420,105464,11,Argentina,85,Chubut,0,0,9,Biedma,1,Puerto Madryn,Puerto Madryn,Escuela Municipal de Pesca Juan Demonte 2701,4
 3805,25130,105484,24,Bélgica,62,Bruselas,0,0,1,Bruselas,1,Bruselas,Bruselas,Maison de Quartier Malibran,1
 3619,25078,105514,34,Brasil,18,Sao Paulo,0,0,1,Sao Paulo,1,Sao Paulo,Sao Paulo,Escuela Estadual Prof. Colombo De Almeida,3
 3619,25078,105534,34,Brasil,18,Sao Paulo,0,0,1,Sao Paulo,1,Sao Paulo,Sao Paulo,Escuela Estadual Prof. Colombo De Almeida,5
@@ -71,9 +81,12 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 3619,25079,105704,34,Brasil,18,Sao Paulo,0,0,1,Sao Paulo,1,Sao Paulo,Sao Paulo,Esc. Mun. Edu.Fundamental Vereador Antonio Sampaio,2
 3619,25079,105714,34,Brasil,18,Sao Paulo,0,0,1,Sao Paulo,1,Sao Paulo,Sao Paulo,Esc. Mun. Edu.Fundamental Vereador Antonio Sampaio,3
 3619,25200,105734,34,Brasil,18,Sao Paulo,0,0,1,Sao Paulo,1,Sao Paulo,Sao Paulo,Escuela Estadual Provincia de Nagasaki,2
+3619,25201,105934,34,Brasil,18,Sao Paulo,0,0,1,Sao Paulo,1,Sao Paulo,Sao Paulo,Escuela Estadual Marechal Deodoro,7
 3619,25202,105974,34,Brasil,18,Sao Paulo,0,0,1,Sao Paulo,1,Sao Paulo,Sao Paulo,Inst. Ciencia Tecnologia  São Paulo,1
+3619,25202,105984,34,Brasil,18,Sao Paulo,0,0,1,Sao Paulo,1,Sao Paulo,Sao Paulo,Inst. Ciencia Tecnologia  São Paulo,2
 3619,25202,106014,34,Brasil,18,Sao Paulo,0,0,1,Sao Paulo,1,Sao Paulo,Sao Paulo,Inst. Ciencia Tecnologia  São Paulo,5
 3619,25202,106044,34,Brasil,18,Sao Paulo,0,0,1,Sao Paulo,1,Sao Paulo,Sao Paulo,Inst. Ciencia Tecnologia  São Paulo,14
+3619,25202,106064,34,Brasil,18,Sao Paulo,0,0,1,Sao Paulo,1,Sao Paulo,Sao Paulo,Inst. Ciencia Tecnologia  São Paulo,16
 3619,25202,106074,34,Brasil,18,Sao Paulo,0,0,1,Sao Paulo,1,Sao Paulo,Sao Paulo,Inst. Ciencia Tecnologia  São Paulo,7
 3619,25202,106104,34,Brasil,18,Sao Paulo,0,0,1,Sao Paulo,1,Sao Paulo,Sao Paulo,Inst. Ciencia Tecnologia  São Paulo,10
 3619,25202,106114,34,Brasil,18,Sao Paulo,0,0,1,Sao Paulo,1,Sao Paulo,Sao Paulo,Inst. Ciencia Tecnologia  São Paulo,11
@@ -82,6 +95,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 3619,25204,106154,34,Brasil,18,Sao Paulo,0,0,1,Sao Paulo,1,Sao Paulo,Sao Paulo,Escuela Técnica Estadual Carlos de Campos,3
 3619,25204,106184,34,Brasil,18,Sao Paulo,0,0,1,Sao Paulo,1,Sao Paulo,Sao Paulo,Escuela Técnica Estadual Carlos de Campos,6
 3619,25204,106204,34,Brasil,18,Sao Paulo,0,0,1,Sao Paulo,1,Sao Paulo,Sao Paulo,Escuela Técnica Estadual Carlos de Campos,14
+3619,25204,106244,34,Brasil,18,Sao Paulo,0,0,1,Sao Paulo,1,Sao Paulo,Sao Paulo,Escuela Técnica Estadual Carlos de Campos,10
 3619,25204,106264,34,Brasil,18,Sao Paulo,0,0,1,Sao Paulo,1,Sao Paulo,Sao Paulo,Escuela Técnica Estadual Carlos de Campos,12
 3619,25205,106284,34,Brasil,18,Sao Paulo,0,0,1,Sao Paulo,1,Sao Paulo,Sao Paulo,Escuela Estadual Orestes Guimarães,2
 3619,25305,106374,34,Brasil,18,Sao Paulo,0,0,1,Sao Paulo,1,Sao Paulo,Sao Paulo,Escuela Estadual Eduardo Prado,1
@@ -89,6 +103,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 3619,25305,106424,34,Brasil,18,Sao Paulo,0,0,1,Sao Paulo,1,Sao Paulo,Sao Paulo,Escuela Estadual Eduardo Prado,6
 3619,25305,106444,34,Brasil,18,Sao Paulo,0,0,1,Sao Paulo,1,Sao Paulo,Sao Paulo,Escuela Estadual Eduardo Prado,14
 3619,25305,106454,34,Brasil,18,Sao Paulo,0,0,1,Sao Paulo,1,Sao Paulo,Sao Paulo,Escuela Estadual Eduardo Prado,15
+3619,25305,106524,34,Brasil,18,Sao Paulo,0,0,1,Sao Paulo,1,Sao Paulo,Sao Paulo,Escuela Estadual Eduardo Prado,10
 3619,25305,106534,34,Brasil,18,Sao Paulo,0,0,1,Sao Paulo,1,Sao Paulo,Sao Paulo,Escuela Estadual Eduardo Prado,11
 3619,25305,106544,34,Brasil,18,Sao Paulo,0,0,1,Sao Paulo,1,Sao Paulo,Sao Paulo,Escuela Estadual Eduardo Prado,12
 3619,26123,106644,34,Brasil,18,Sao Paulo,0,0,1,Sao Paulo,1,Sao Paulo,Sao Paulo,Escola Municipal Ensino Fundamental Analia Franco Bastos,16
@@ -97,8 +112,10 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 3619,26123,106714,34,Brasil,18,Sao Paulo,0,0,1,Sao Paulo,1,Sao Paulo,Sao Paulo,Escola Municipal Ensino Fundamental Analia Franco Bastos,12
 4151,26121,106774,34,Brasil,18,Sao Paulo,0,0,1,Sao Paulo,2,Guarulhos,Guarulhos,Escola Prefeitura Guarulhos Prof. Silvia de Cassia Matias,6
 4386,26098,106924,34,Brasil,18,Sao Paulo,0,0,1,Sao Paulo,4,Carapicuíba,Carapicuíba,Esc. Mun. Educ. Fundamental Professora Nai Molina do Amaral,1
+4386,26098,106934,34,Brasil,18,Sao Paulo,0,0,1,Sao Paulo,4,Carapicuíba,Carapicuíba,Esc. Mun. Educ. Fundamental Professora Nai Molina do Amaral,2
 4387,26099,106954,34,Brasil,18,Sao Paulo,0,0,1,Sao Paulo,5,Itaquaquecetuba,Itaquaquecetuba,Escuela Estadual Homero Fernando Milano,2
 4387,26099,106964,34,Brasil,18,Sao Paulo,0,0,1,Sao Paulo,5,Itaquaquecetuba,Itaquaquecetuba,Escuela Estadual Homero Fernando Milano,3
+3776,25101,107034,34,Brasil,33,Río de Janeiro,0,0,3,Río de Janeiro,1,Río de Janeiro,Río de Janeiro,Escola Municipal Rivadavia Corrêa,2
 3779,25104,107114,44,Chile,36,Metropolitana,0,0,1,Santiago,1,Santiago,Santiago,Colegio Sagrados Corazones del Arzobispado de Santiago,1
 3779,25104,107204,44,Chile,36,Metropolitana,0,0,1,Santiago,1,Santiago,Santiago,Colegio Sagrados Corazones del Arzobispado de Santiago,20
 3779,25104,107224,44,Chile,36,Metropolitana,0,0,1,Santiago,1,Santiago,Santiago,Colegio Sagrados Corazones del Arzobispado de Santiago,22
@@ -113,7 +130,9 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 3781,25106,107704,44,Chile,38,Antofagasta,0,0,3,Antofagasta,1,Antofagasta,Antofagasta,"Liceo Tecnico Humanistico A-14, Antofagasta",13
 3781,25106,107744,44,Chile,38,Antofagasta,0,0,3,Antofagasta,1,Antofagasta,Antofagasta,"Liceo Tecnico Humanistico A-14, Antofagasta",17
 3781,25106,107754,44,Chile,38,Antofagasta,0,0,3,Antofagasta,1,Antofagasta,Antofagasta,"Liceo Tecnico Humanistico A-14, Antofagasta",18
+3781,25106,107764,44,Chile,38,Antofagasta,0,0,3,Antofagasta,1,Antofagasta,Antofagasta,"Liceo Tecnico Humanistico A-14, Antofagasta",7
 3781,25106,107794,44,Chile,38,Antofagasta,0,0,3,Antofagasta,1,Antofagasta,Antofagasta,"Liceo Tecnico Humanistico A-14, Antofagasta",10
+3782,25107,107834,44,Chile,38,Antofagasta,0,0,4,El Loa,1,Calama,Calama,Escuela Básica D-37 República de Bolivia,2
 3782,25107,107844,44,Chile,38,Antofagasta,0,0,4,El Loa,1,Calama,Calama,Escuela Básica D-37 República de Bolivia,3
 3782,25107,107854,44,Chile,38,Antofagasta,0,0,4,El Loa,1,Calama,Calama,Escuela Básica D-37 República de Bolivia,4
 3782,25107,107974,44,Chile,38,Antofagasta,0,0,4,El Loa,1,Calama,Calama,Escuela Básica D-37 República de Bolivia,26
@@ -127,6 +146,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 3783,25108,108264,44,Chile,39,Tarapaca,0,0,5,Iquique,1,Iquique,Iquique,Colegio Bernardo O´higgins,25
 3783,25108,108274,44,Chile,39,Tarapaca,0,0,5,Iquique,1,Iquique,Iquique,Colegio Bernardo O´higgins,26
 3783,25108,108374,44,Chile,39,Tarapaca,0,0,5,Iquique,1,Iquique,Iquique,Colegio Bernardo O´higgins,24
+3783,25108,108384,44,Chile,39,Tarapaca,0,0,5,Iquique,1,Iquique,Iquique,Colegio Bernardo O´higgins,13
 3783,25108,108474,44,Chile,39,Tarapaca,0,0,5,Iquique,1,Iquique,Iquique,Colegio Bernardo O´higgins,10
 3783,25108,108494,44,Chile,39,Tarapaca,0,0,5,Iquique,1,Iquique,Iquique,Colegio Bernardo O´higgins,12
 3614,25301,108764,62,Estados Unidos,13,Virginia,0,0,1,Arlington,1,Arlington,Arlington,Yorktown High School (b),10
@@ -147,42 +167,63 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 3616,25071,109474,67,España,15,Madrid,0,0,1,Madrid,1,Madrid,Madrid,Centro Juvenil Pipo Velasco (b),6
 3616,25071,109504,67,España,15,Madrid,0,0,1,Madrid,1,Madrid,Madrid,Centro Juvenil Pipo Velasco (b),7
 3616,25072,109564,67,España,15,Madrid,0,0,1,Madrid,1,Madrid,Madrid,Centro Juvenil Pipo Velasco (c),1
+3616,25072,109574,67,España,15,Madrid,0,0,1,Madrid,1,Madrid,Madrid,Centro Juvenil Pipo Velasco (c),2
 3616,25072,109594,67,España,15,Madrid,0,0,1,Madrid,1,Madrid,Madrid,Centro Juvenil Pipo Velasco (c),4
 3616,25072,109604,67,España,15,Madrid,0,0,1,Madrid,1,Madrid,Madrid,Centro Juvenil Pipo Velasco (c),5
 3616,25072,109614,67,España,15,Madrid,0,0,1,Madrid,1,Madrid,Madrid,Centro Juvenil Pipo Velasco (c),6
 3617,25073,109864,67,España,16,Cataluña,0,0,2,Barcelona,1,Barcelona,Barcelona,CEM Olimpics (Vall D’Hebron),3
+3617,25073,109874,67,España,16,Cataluña,0,0,2,Barcelona,1,Barcelona,Barcelona,CEM Olimpics (Vall D’Hebron),4
 3617,25073,109934,67,España,16,Cataluña,0,0,2,Barcelona,1,Barcelona,Barcelona,CEM Olimpics (Vall D’Hebron),34
 3617,25073,110034,67,España,16,Cataluña,0,0,2,Barcelona,1,Barcelona,Barcelona,CEM Olimpics (Vall D’Hebron),22
 3617,25073,110044,67,España,16,Cataluña,0,0,2,Barcelona,1,Barcelona,Barcelona,CEM Olimpics (Vall D’Hebron),23
+3617,25073,110074,67,España,16,Cataluña,0,0,2,Barcelona,1,Barcelona,Barcelona,CEM Olimpics (Vall D’Hebron),14
 3617,25073,110084,67,España,16,Cataluña,0,0,2,Barcelona,1,Barcelona,Barcelona,CEM Olimpics (Vall D’Hebron),15
 3617,25073,110124,67,España,16,Cataluña,0,0,2,Barcelona,1,Barcelona,Barcelona,CEM Olimpics (Vall D’Hebron),7
 3617,25073,110154,67,España,16,Cataluña,0,0,2,Barcelona,1,Barcelona,Barcelona,CEM Olimpics (Vall D’Hebron),10
+3617,25075,110234,67,España,16,Cataluña,0,0,2,Barcelona,1,Barcelona,Barcelona,Sala Polivalent Del Parc Del Nord,6
 3617,25075,110264,67,España,16,Cataluña,0,0,2,Barcelona,1,Barcelona,Barcelona,Sala Polivalent Del Parc Del Nord,7
 3617,25075,110274,67,España,16,Cataluña,0,0,2,Barcelona,1,Barcelona,Barcelona,Sala Polivalent Del Parc Del Nord,8
 3617,25075,110304,67,España,16,Cataluña,0,0,2,Barcelona,1,Barcelona,Barcelona,Sala Polivalent Del Parc Del Nord,11
+3617,26180,110544,67,España,16,Cataluña,0,0,2,Barcelona,1,Barcelona,Barcelona,La Farga (Centro de Eventos),23
 3617,26180,110644,67,España,16,Cataluña,0,0,2,Barcelona,1,Barcelona,Barcelona,La Farga (Centro de Eventos),9
 3618,25076,110914,67,España,17,Valencia,0,0,3,Valencia,1,Valencia,Valencia,Instituto de Educacion Superior IES Lluís Vives,18
+3770,26186,111004,67,España,27,Murcia,0,0,4,Murcia,1,Murcia,Murcia,Instituto de Educacion Secundaria  Saavedra Fajardo,3
 3772,25097,111264,67,España,29,Euskadi,0,0,5,Vizcaya,1,Bilbao,Bilbao,Palacio Euskalduna,23
 3772,25097,111344,67,España,29,Euskadi,0,0,5,Vizcaya,1,Bilbao,Bilbao,Palacio Euskalduna,20
+3772,25097,111354,67,España,29,Euskadi,0,0,5,Vizcaya,1,Bilbao,Bilbao,Palacio Euskalduna,21
 3773,25098,111554,67,España,30,Andalucia,0,0,6,Sevilla ,1,Sevilla ,Sevilla,Centro Social Polivalente Hogar Virgen De Los Reyes,5
 4392,26104,111654,67,España,30,Andalucia,0,0,7,Málaga,1,Málaga,Málaga,Centro de Acción Exterior del Ayuntamiento de Málaga,1
 3774,26117,111694,67,España,31,Islas Baleares,0,0,7,Palma de Mallorca,1,Palma de Mallorca,Palma de Mallorca,Centro cultural  comercial S Escorxador,1
 3800,25125,111934,124,Italia,57,Lombardía,0,0,2,Bérgamo,1,Bérgamo,Bérgamo,Centro Oratorio San Francesco D Assisi,2
+3800,25125,111974,124,Italia,57,Lombardía,0,0,2,Bérgamo,1,Bérgamo,Bérgamo,Centro Oratorio San Francesco D Assisi,6
 3801,25126,112034,124,Italia,57,Lombardía,0,0,3,Milán,1,Milán,Milán,Centro Ricordi,1
 3792,32417,112354,233,Uruguay,49,Montevideo,0,0,1,Montevideo,1,Montevideo,Montevideo,Centro de Formación Permanente de la DGEIP,1
 3792,32417,112364,233,Uruguay,49,Montevideo,0,0,1,Montevideo,1,Montevideo,Montevideo,Centro de Formación Permanente de la DGEIP,2
+2794,517,1000381,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Escuela Daniel Calvo,1
+2794,202,1000521,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Col. Don Bosco,3
+2794,202,1000531,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Col. Don Bosco,4
 2794,202,1000561,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Col. Don Bosco,7
+2794,202,1000571,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Col. Don Bosco,8
 2794,204,1000581,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Col. Sagrado Corazon,1
 2794,204,1000591,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Col. Sagrado Corazon,2
 2794,204,1000601,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Col. Sagrado Corazon,3
 2794,204,1000611,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Col. Sagrado Corazon,4
 2794,204,1000621,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Col. Sagrado Corazon,5
+2794,115,1000861,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Esc. La Recoleta,9
+2794,115,1000881,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Esc. La Recoleta,11
+2794,115,1000901,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Esc. La Recoleta,13
 2794,536,1002201,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Francisco Cermeño,1
 2794,536,1002211,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Francisco Cermeño,2
 2794,25577,1002221,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Cristo Rey,1
 2794,25577,1002231,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Cristo Rey,2
+2794,32387,1004111,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Facultad de Ciencias de Enfermeria y Obstetricia,1
 2794,117,1004261,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Esc. San Javier,2
 2794,117,1004351,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Esc. San Javier,11
+2794,117,1004381,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Esc. San Javier,14
+2794,32162,1006511,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Centro Recreacional La Esperanza,1
+2794,32162,1006521,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Centro Recreacional La Esperanza,2
+2794,32162,1006531,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Centro Recreacional La Esperanza,3
+2794,25569,1007151,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Salón Multifuncional Satélite,7
 2794,506,1007241,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Fundacion Pachamama,2
 2794,506,1007251,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Fundacion Pachamama,3
 2794,506,1007261,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Fundacion Pachamama,4
@@ -198,13 +239,595 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2794,208,1008041,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,Kinder Municipal,8
 2794,32389,1008871,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Bicentenario,1
 2794,32389,1008881,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Bicentenario,2
+2794,30002,1009271,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Campo Deportivo zona San Francisco,4
+2794,507,1009351,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Jardín De Niños San Lázaro,5
+2794,32160,1009421,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Genoveva Rios,1
+2794,116,1009621,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Salon Multifuncional El Abra,4
+2794,116,1009641,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Salon Multifuncional El Abra,6
+2794,116,1009671,32,BOLIVIA,1,Chuquisaca,1,0,1,Oropeza                                 ,1,Sucre,Sucre,Salon Multifuncional El Abra,9
 2794,32388,1009931,32,BOLIVIA,1,Chuquisaca,2,0,1,Oropeza                                 ,1,Sucre,Sucre,U.E. Tambo Aranjuez,1
+821,26441,3000191,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U. E. Lía Rivera de Guzmán,1
+821,231,3003251,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa 14 de Septiembre,1
+821,231,3003261,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa 14 de Septiembre,2
+821,231,3003271,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa 14 de Septiembre,3
+821,231,3003281,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa 14 de Septiembre,4
+821,231,3003291,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa 14 de Septiembre,5
+821,231,3003311,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa 14 de Septiembre,7
+821,231,3003321,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa 14 de Septiembre,8
+821,220,3006291,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Jose Ignacio Sanjines,7
+821,220,3006301,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Jose Ignacio Sanjines,8
+821,243,3006351,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U.E. ADRA Juan XXIII,3
+821,243,3006361,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U.E. ADRA Juan XXIII,4
+821,197,3018001,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,(Cárcel) Penitenciaria San Antonio,1
+821,197,3018011,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,(Cárcel) Penitenciaria San Antonio,2
+821,113,3018021,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Instituto Eduardo Laredo,1
+821,113,3018041,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Instituto Eduardo Laredo,3
+821,113,3018051,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Instituto Eduardo Laredo,4
+821,113,3018061,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Instituto Eduardo Laredo,5
+821,113,3018071,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Instituto Eduardo Laredo,6
+821,113,3018111,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Instituto Eduardo Laredo,10
+821,196,3018571,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,(Cárcel) Penitenciaria San Sebastian  Varones,1
+821,196,3018581,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,(Cárcel) Penitenciaria San Sebastian  Varones,2
+821,196,3018591,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,(Cárcel) Penitenciaria San Sebastian  Varones,3
+821,147,3018611,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Escuela Wilge Rodriguez,1
+821,147,3018621,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Escuela Wilge Rodriguez,2
+821,147,3018631,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Escuela Wilge Rodriguez,3
+821,147,3018641,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Escuela Wilge Rodriguez,4
+821,147,3018651,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Escuela Wilge Rodriguez,5
+821,136,3022281,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Cristo Rey,1
+821,136,3022311,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Cristo Rey,4
+821,136,3022321,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Cristo Rey,5
+821,136,3022341,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Cristo Rey,7
+821,136,3022351,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Cristo Rey,8
+821,26440,3022521,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Despertad Montessori (Secundario),1
+951,9029,3037361,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Tiquipaya,Colegio San Miguel (Tiquipaya),2
+951,9029,3037411,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Tiquipaya,Colegio San Miguel (Tiquipaya),7
+951,9029,3037431,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Tiquipaya,Colegio San Miguel (Tiquipaya),9
+951,9029,3037441,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Tiquipaya,Colegio San Miguel (Tiquipaya),10
+951,9029,3037451,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Tiquipaya,Colegio San Miguel (Tiquipaya),11
+951,9029,3037461,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Tiquipaya,Colegio San Miguel (Tiquipaya),12
+951,25698,3037961,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Tiquipaya,U.E. Monseñor Salomón Romero,6
+951,25698,3037971,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Tiquipaya,U.E. Monseñor Salomón Romero,7
+951,25698,3037991,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Tiquipaya,U.E. Monseñor Salomón Romero,9
+951,25698,3038001,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Tiquipaya,U.E. Monseñor Salomón Romero,10
+952,9032,3038321,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Trojes,Unidad Educativa Jesus Maestro,1
+952,9032,3038341,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Trojes,Unidad Educativa Jesus Maestro,3
+952,9032,3038411,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Trojes,Unidad Educativa Jesus Maestro,10
+952,26459,3038501,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Trojes,U.E. Técnico Humanístico San Gabriel,2
+952,26459,3038511,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Trojes,U.E. Técnico Humanístico San Gabriel,3
+957,9037,3039191,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Linde   Chiquicollo,Aldeas S.O.S,2
+957,9037,3039201,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Linde   Chiquicollo,Aldeas S.O.S,3
+957,9037,3039211,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Linde   Chiquicollo,Aldeas S.O.S,4
+957,9037,3039221,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Linde   Chiquicollo,Aldeas S.O.S,5
+957,25904,3039281,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Linde   Chiquicollo,U. E. Titos Linde,1
+962,26463,3041201,32,BOLIVIA,3,Cochabamba,27,0,9,Quillacollo                             ,4,Vinto,Anocaraire,U.E. Simón I. Patiño,1
+962,26463,3041221,32,BOLIVIA,3,Cochabamba,27,0,9,Quillacollo                             ,4,Vinto,Anocaraire,U.E. Simón I. Patiño,3
+964,9046,3041941,32,BOLIVIA,3,Cochabamba,22,0,9,Quillacollo                             ,5,Colcapirhua,San Jose (Cuatro Esquinas),Unidad Educativa San José de Kami,6
+964,9046,3041951,32,BOLIVIA,3,Cochabamba,22,0,9,Quillacollo                             ,5,Colcapirhua,San Jose (Cuatro Esquinas),Unidad Educativa San José de Kami,7
+964,9046,3042031,32,BOLIVIA,3,Cochabamba,22,0,9,Quillacollo                             ,5,Colcapirhua,San Jose (Cuatro Esquinas),Unidad Educativa San José de Kami,15
+964,9046,3042051,32,BOLIVIA,3,Cochabamba,22,0,9,Quillacollo                             ,5,Colcapirhua,San Jose (Cuatro Esquinas),Unidad Educativa San José de Kami,17
+964,9046,3042061,32,BOLIVIA,3,Cochabamba,22,0,9,Quillacollo                             ,5,Colcapirhua,San Jose (Cuatro Esquinas),Unidad Educativa San José de Kami,18
+964,9046,3042071,32,BOLIVIA,3,Cochabamba,22,0,9,Quillacollo                             ,5,Colcapirhua,San Jose (Cuatro Esquinas),Unidad Educativa San José de Kami,19
+964,26468,3042141,32,BOLIVIA,3,Cochabamba,22,0,9,Quillacollo                             ,5,Colcapirhua,San Jose (Cuatro Esquinas),U. E. Nuestra Señora de La Paz,7
+964,26468,3042151,32,BOLIVIA,3,Cochabamba,22,0,9,Quillacollo                             ,5,Colcapirhua,San Jose (Cuatro Esquinas),U. E. Nuestra Señora de La Paz,8
+964,26468,3042161,32,BOLIVIA,3,Cochabamba,22,0,9,Quillacollo                             ,5,Colcapirhua,San Jose (Cuatro Esquinas),U. E. Nuestra Señora de La Paz,9
+965,9039,3042181,32,BOLIVIA,3,Cochabamba,22,0,9,Quillacollo                             ,5,Colcapirhua,Callaj Chullpa (Colcapirhua),Sede Social Callaj Chullpa (Colcapirhua),1
+965,9039,3042191,32,BOLIVIA,3,Cochabamba,22,0,9,Quillacollo                             ,5,Colcapirhua,Callaj Chullpa (Colcapirhua),Sede Social Callaj Chullpa (Colcapirhua),2
+965,9039,3042201,32,BOLIVIA,3,Cochabamba,22,0,9,Quillacollo                             ,5,Colcapirhua,Callaj Chullpa (Colcapirhua),Sede Social Callaj Chullpa (Colcapirhua),3
+968,9053,3042721,32,BOLIVIA,3,Cochabamba,22,0,9,Quillacollo                             ,5,Colcapirhua,Santa Rosa (Colcapirhua),Unidad Educativa La Sagrada Familia,1
+968,9053,3042741,32,BOLIVIA,3,Cochabamba,22,0,9,Quillacollo                             ,5,Colcapirhua,Santa Rosa (Colcapirhua),Unidad Educativa La Sagrada Familia,3
+968,9053,3042781,32,BOLIVIA,3,Cochabamba,22,0,9,Quillacollo                             ,5,Colcapirhua,Santa Rosa (Colcapirhua),Unidad Educativa La Sagrada Familia,7
+971,1050,3044331,32,BOLIVIA,3,Cochabamba,23,0,10,Chapare                                 ,1,Sacaba,Sacaba,(Cárcel) Penitenciaria San Pedro (Sacaba),1
+3011,1014,3049741,32,BOLIVIA,3,Cochabamba,23,0,10,Chapare                                 ,1,Sacaba,Chacacollo,Escuela Copacabana,8
+3011,1014,3049751,32,BOLIVIA,3,Cochabamba,23,0,10,Chapare                                 ,1,Sacaba,Chacacollo,Escuela Copacabana,9
+3011,1014,3049791,32,BOLIVIA,3,Cochabamba,23,0,10,Chapare                                 ,1,Sacaba,Chacacollo,Escuela Copacabana,13
+2059,111,4000181,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Nal. Simon Bolivar,1
+2059,111,4000191,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Nal. Simon Bolivar,2
+2059,111,4000201,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Nal. Simon Bolivar,3
+2059,111,4000211,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Nal. Simon Bolivar,4
+2059,111,4000221,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Nal. Simon Bolivar,5
+2059,111,4000231,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Nal. Simon Bolivar,6
+2059,111,4000241,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Nal. Simon Bolivar,7
+2059,111,4000251,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Nal. Simon Bolivar,8
+2059,111,4000261,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Nal. Simon Bolivar,9
+2059,111,4000271,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Nal. Simon Bolivar,10
+2059,111,4000281,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Nal. Simon Bolivar,11
+2059,111,4000291,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Nal. Simon Bolivar,12
+2059,25035,4000491,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U. E. Alto Oruro,1
+2059,25035,4000501,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U. E. Alto Oruro,2
+2059,25035,4000511,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U. E. Alto Oruro,3
+2059,25035,4000521,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U. E. Alto Oruro,4
+2059,117,4000881,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U. Esc. Luis Llosa   España,1
+2059,25045,4001101,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Particular Arrieta,1
+2059,25045,4001111,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Particular Arrieta,2
+2059,31007,4001151,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Pantaleon Dalence 1,1
+2059,31007,4001161,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Pantaleon Dalence 1,2
+2059,31007,4001171,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Pantaleon Dalence 1,3
+2059,31007,4001181,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Pantaleon Dalence 1,4
+2059,31007,4001191,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Pantaleon Dalence 1,5
+2059,31007,4001201,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Pantaleon Dalence 1,6
+2059,31007,4001211,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Pantaleon Dalence 1,7
+2059,31001,4001331,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U.E.  Ildefonso Murguia,1
+2059,31001,4001341,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U.E.  Ildefonso Murguia,2
+2059,31001,4001351,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U.E.  Ildefonso Murguia,3
+2059,31001,4001361,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U.E.  Ildefonso Murguia,4
+2059,116,4001601,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Particular Anglo Americano,1
+2059,116,4001611,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Particular Anglo Americano,2
+2059,116,4001621,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Particular Anglo Americano,3
+2059,116,4001631,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Particular Anglo Americano,4
+2059,116,4001641,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Particular Anglo Americano,5
+2059,25033,4001651,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Particular Bolivia Japon,1
+2059,25033,4001661,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Particular Bolivia Japon,2
+2059,25033,4001671,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Particular Bolivia Japon,3
+2059,25033,4001681,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Particular Bolivia Japon,4
+2059,25033,4001691,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Particular Bolivia Japon,5
+2059,25033,4001701,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Particular Bolivia Japon,6
+2059,25033,4001711,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Particular Bolivia Japon,7
+2059,32407,4001801,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Rodolfo Soria Galvarro,2
+2059,32407,4001811,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Rodolfo Soria Galvarro,3
+2059,32407,4001821,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Rodolfo Soria Galvarro,4
+2059,95,4001831,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U. E. Juan Velez de Cordoba (Inca Pozo).,1
+2059,95,4001851,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U. E. Juan Velez de Cordoba (Inca Pozo).,3
+2059,95,4001861,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U. E. Juan Velez de Cordoba (Inca Pozo).,4
+2059,95,4001871,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U. E. Juan Velez de Cordoba (Inca Pozo).,5
+2059,95,4001881,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U. E. Juan Velez de Cordoba (Inca Pozo).,6
+2059,25629,4002061,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Cristo el Salvador,1
+2059,25629,4002071,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Cristo el Salvador,2
+2059,25629,4002081,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Cristo el Salvador,3
+2059,25629,4002091,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Cristo el Salvador,4
+2059,25629,4002101,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Cristo el Salvador,5
+2059,25629,4002111,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Cristo el Salvador,6
+2059,25629,4002121,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Cristo el Salvador,7
+2059,25629,4002131,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Cristo el Salvador,8
+2059,25629,4002141,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Cristo el Salvador,9
+2059,25629,4002151,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Cristo el Salvador,10
+2059,25629,4002161,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Cristo el Salvador,11
+2059,141,4002411,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Tomas Barron,7
+2059,141,4002421,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Tomas Barron,8
+2059,141,4002441,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Tomas Barron,10
+2059,94,4002751,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U. E. John F. Kennedy,1
+2059,94,4002761,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U. E. John F. Kennedy,2
+2059,94,4002771,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U. E. John F. Kennedy,3
+2059,94,4002781,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U. E. John F. Kennedy,4
+2059,94,4002791,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U. E. John F. Kennedy,5
+2059,94,4002801,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U. E. John F. Kennedy,6
+2059,79,4003251,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Esc. Jacinto Rodriguez (La Aurora),1
+2059,79,4003261,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Esc. Jacinto Rodriguez (La Aurora),2
+2059,79,4003271,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Esc. Jacinto Rodriguez (La Aurora),3
+2059,79,4003281,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Esc. Jacinto Rodriguez (La Aurora),4
+2059,79,4003291,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Esc. Jacinto Rodriguez (La Aurora),5
+2059,79,4003301,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Esc. Jacinto Rodriguez (La Aurora),6
+2059,79,4003311,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Esc. Jacinto Rodriguez (La Aurora),7
+2059,79,4003321,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Esc. Jacinto Rodriguez (La Aurora),8
+2059,80,4003441,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Esc. Franz Tamayo (Los Pinos),1
+2059,80,4003451,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Esc. Franz Tamayo (Los Pinos),2
+2059,80,4003461,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Esc. Franz Tamayo (Los Pinos),3
+2059,80,4003471,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Esc. Franz Tamayo (Los Pinos),4
+2059,80,4003481,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Esc. Franz Tamayo (Los Pinos),5
+2059,32409,4003711,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. 27 de Julio Huanuni,1
+2059,32409,4003721,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. 27 de Julio Huanuni,2
+2059,83,4003881,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U. Esc. Kantuta,1
+2059,83,4003891,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U. Esc. Kantuta,2
+2059,83,4003901,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U. Esc. Kantuta,3
+2059,83,4003911,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U. Esc. Kantuta,4
+2059,83,4003921,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U. Esc. Kantuta,5
+2059,83,4003931,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U. Esc. Kantuta,6
+2059,83,4003941,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U. Esc. Kantuta,7
+2059,83,4003951,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U. Esc. Kantuta,8
+2059,32180,4003971,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U. E. Abya Yala,2
+2059,31008,4005251,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Maria Rosa Quintela,2
+2059,31008,4005261,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Maria Rosa Quintela,3
+2059,31008,4005271,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Maria Rosa Quintela,4
+2059,31008,4005281,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Maria Rosa Quintela,5
+2059,31008,4005291,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Maria Rosa Quintela,6
+2059,31008,4005301,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Maria Rosa Quintela,7
+2059,31008,4005311,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Maria Rosa Quintela,8
+2059,31008,4005321,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Maria Rosa Quintela,9
+2059,31008,4005331,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Maria Rosa Quintela,10
+2059,25027,4005341,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U. E. Kantuta II (Josermo Murillo),1
+2059,25027,4005351,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U. E. Kantuta II (Josermo Murillo),2
+2059,25027,4005361,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U. E. Kantuta II (Josermo Murillo),3
+2059,25027,4005371,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U. E. Kantuta II (Josermo Murillo),4
+2059,25027,4005381,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U. E. Kantuta II (Josermo Murillo),5
+2059,25027,4005391,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U. E. Kantuta II (Josermo Murillo),6
+2059,25027,4005401,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U. E. Kantuta II (Josermo Murillo),7
+2059,25027,4005411,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U. E. Kantuta II (Josermo Murillo),8
+2059,25027,4005421,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U. E. Kantuta II (Josermo Murillo),9
+2059,25027,4005431,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U. E. Kantuta II (Josermo Murillo),10
+2059,25027,4005441,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U. E. Kantuta II (Josermo Murillo),11
+2059,25027,4005451,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U. E. Kantuta II (Josermo Murillo),12
+2059,25027,4005461,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U. E. Kantuta II (Josermo Murillo),13
+2059,25027,4005471,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U. E. Kantuta II (Josermo Murillo),14
+2059,138,4005761,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Nal. Mixto Carmen Guzman De Mier,1
+2059,138,4005771,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Nal. Mixto Carmen Guzman De Mier,2
+2059,138,4005781,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Nal. Mixto Carmen Guzman De Mier,3
+2059,138,4005791,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Nal. Mixto Carmen Guzman De Mier,4
+2059,138,4005801,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Nal. Mixto Carmen Guzman De Mier,5
+2059,138,4005811,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Nal. Mixto Carmen Guzman De Mier,6
+2059,138,4005821,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Nal. Mixto Carmen Guzman De Mier,7
+2059,138,4005831,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Nal. Mixto Carmen Guzman De Mier,8
+2059,138,4005841,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Nal. Mixto Carmen Guzman De Mier,9
+2059,138,4005851,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Nal. Mixto Carmen Guzman De Mier,10
+2059,138,4005861,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Nal. Mixto Carmen Guzman De Mier,11
+2059,138,4005871,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Nal. Mixto Carmen Guzman De Mier,12
+2059,138,4005881,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Nal. Mixto Carmen Guzman De Mier,13
+2059,138,4005891,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Nal. Mixto Carmen Guzman De Mier,14
+2059,138,4005901,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Nal. Mixto Carmen Guzman De Mier,15
+2059,138,4005911,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Nal. Mixto Carmen Guzman De Mier,16
+2059,138,4005921,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Nal. Mixto Carmen Guzman De Mier,17
+2059,138,4005931,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Nal. Mixto Carmen Guzman De Mier,18
+2059,138,4005941,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Nal. Mixto Carmen Guzman De Mier,19
+2059,138,4005951,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Nal. Mixto Carmen Guzman De Mier,20
+2059,138,4005961,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Nal. Mixto Carmen Guzman De Mier,21
+2059,138,4005971,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Nal. Mixto Carmen Guzman De Mier,22
+2059,138,4005981,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Nal. Mixto Carmen Guzman De Mier,23
+2059,138,4005991,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Nal. Mixto Carmen Guzman De Mier,24
+2059,138,4006001,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Nal. Mixto Carmen Guzman De Mier,25
+2059,25029,4006011,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Inicial Carmen Guzman De Mier,1
+2059,25029,4006021,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Inicial Carmen Guzman De Mier,2
+2059,25029,4006041,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Inicial Carmen Guzman De Mier,4
+2059,25029,4006051,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Inicial Carmen Guzman De Mier,5
+2059,25029,4006061,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Inicial Carmen Guzman De Mier,6
+2059,25029,4006071,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Inicial Carmen Guzman De Mier,7
+2059,25036,4006081,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U. E. Misael Pacheco Loma,1
+2059,25036,4006091,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U. E. Misael Pacheco Loma,2
+2059,25036,4006101,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U. E. Misael Pacheco Loma,3
+2059,25036,4006111,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U. E. Misael Pacheco Loma,4
+2059,25036,4006121,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U. E. Misael Pacheco Loma,5
+2059,25036,4006131,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U. E. Misael Pacheco Loma,6
+2059,25036,4006141,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U. E. Misael Pacheco Loma,7
+2059,25036,4006151,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U. E. Misael Pacheco Loma,8
+2059,25036,4006161,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U. E. Misael Pacheco Loma,9
+2059,82,4006251,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Inst. De Aprendizaje Industrial   I.A.I.,8
+2059,25050,4006411,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Magdalena Postel II,1
+2059,25050,4006421,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Magdalena Postel II,2
+2059,25050,4006431,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Magdalena Postel II,3
+2059,25050,4006441,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Magdalena Postel II,4
+2059,25050,4006451,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Magdalena Postel II,5
+2059,25050,4006461,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Magdalena Postel II,6
+2059,25050,4006471,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Magdalena Postel II,7
+2059,88,4006481,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Facultad Técnica,1
+2059,88,4006491,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Facultad Técnica,2
+2059,88,4006501,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Facultad Técnica,3
+2059,88,4006511,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Facultad Técnica,4
+2059,88,4006521,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Facultad Técnica,5
+2059,88,4006531,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Facultad Técnica,6
+2059,88,4006541,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Facultad Técnica,7
+2059,88,4006561,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Facultad Técnica,9
+2059,88,4006571,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Facultad Técnica,10
+2059,88,4006581,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Facultad Técnica,11
+2059,88,4006591,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Facultad Técnica,12
+2059,88,4006601,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Facultad Técnica,13
+2059,88,4006611,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Facultad Técnica,14
+2059,88,4006621,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,Facultad Técnica,15
+2059,91,4006771,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U. Esc. Melvin Jones,2
+2059,91,4006781,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U. Esc. Melvin Jones,3
+2059,91,4006801,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U. Esc. Melvin Jones,5
+2059,91,4006811,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U. Esc. Melvin Jones,6
+2059,91,4006821,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U. Esc. Melvin Jones,7
+2059,91,4006831,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U. Esc. Melvin Jones,8
+2059,32135,4006871,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U.E.  Jaime Escalante,1
+2059,32135,4006881,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U.E.  Jaime Escalante,2
+2059,32135,4006891,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U.E.  Jaime Escalante,3
+2059,32135,4006901,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U.E.  Jaime Escalante,4
+2059,32135,4006911,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U.E.  Jaime Escalante,5
+2059,32135,4006921,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U.E.  Jaime Escalante,6
+2059,32135,4006931,32,BOLIVIA,4,Oruro,29,0,1,Cercado                                 ,1,Oruro,Oruro,U.E.  Jaime Escalante,7
+2059,147,4007031,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Maria  De Nazareth,1
+2059,147,4007041,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Maria  De Nazareth,2
+2059,147,4007051,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Maria  De Nazareth,3
+2059,147,4007061,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Maria  De Nazareth,4
+2059,147,4007071,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Maria  De Nazareth,5
 2059,147,4007081,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Maria  De Nazareth,6
 2059,147,4007091,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Maria  De Nazareth,7
 2059,147,4007101,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Maria  De Nazareth,8
+2059,147,4007111,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Maria  De Nazareth,9
 2059,147,4007121,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Maria  De Nazareth,10
 2059,147,4007131,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Maria  De Nazareth,11
+2059,106,4007391,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Nal. Mixto Bolivia,1
+2059,106,4007401,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Nal. Mixto Bolivia,2
+2059,129,4007611,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Marcos Beltran Avila,6
+2059,129,4007621,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Marcos Beltran Avila,7
+2059,129,4007631,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Marcos Beltran Avila,8
+2059,129,4007641,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Marcos Beltran Avila,9
+2059,129,4007651,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Col. Marcos Beltran Avila,10
+2059,136,4008621,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Centro Educativo Luis Espinal,1
+2059,136,4008631,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Centro Educativo Luis Espinal,2
+2059,136,4008641,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Centro Educativo Luis Espinal,3
+2059,136,4008651,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Centro Educativo Luis Espinal,4
+2059,32311,4008751,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Fred Nuñez Gonzales,1
+2059,32311,4008761,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Fred Nuñez Gonzales,2
+2059,32311,4008771,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Fred Nuñez Gonzales,3
+2059,144,4009411,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Niño Quirquincho Feliz,7
+2059,144,4009421,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Niño Quirquincho Feliz,8
+2059,144,4009431,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Niño Quirquincho Feliz,9
+2059,144,4009441,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Niño Quirquincho Feliz,10
+2059,144,4009451,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Niño Quirquincho Feliz,11
+2059,144,4009461,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Niño Quirquincho Feliz,12
+2059,26490,4009471,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Juan Lechin Oquendo 2,1
+2059,26490,4009481,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Juan Lechin Oquendo 2,2
+2059,26490,4009491,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U.E. Juan Lechin Oquendo 2,3
 2059,122,4009861,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U. Esc. Uru Uru,1
 2059,122,4009871,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U. Esc. Uru Uru,2
 2059,122,4009881,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U. Esc. Uru Uru,3
 2059,122,4009891,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U. Esc. Uru Uru,4
+2059,123,4009951,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Fundacion Infocal,1
+2059,123,4009961,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Fundacion Infocal,2
+2059,123,4009971,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Fundacion Infocal,3
+2059,123,4009981,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Fundacion Infocal,4
+2059,123,4009991,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Fundacion Infocal,5
+2059,124,4010001,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Kinder Juancito Pinto,1
+2059,124,4010021,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Kinder Juancito Pinto,3
+2059,124,4010031,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Kinder Juancito Pinto,4
+2059,124,4010041,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Kinder Juancito Pinto,5
+2059,124,4010051,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Kinder Juancito Pinto,6
+2059,126,4010071,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U. Esc. Hijos Del Sol (Plan 500),1
+2059,126,4010081,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U. Esc. Hijos Del Sol (Plan 500),2
+2059,126,4010091,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U. Esc. Hijos Del Sol (Plan 500),3
+2059,126,4010101,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U. Esc. Hijos Del Sol (Plan 500),4
+2059,126,4010111,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U. Esc. Hijos Del Sol (Plan 500),5
+2059,126,4010121,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U. Esc. Hijos Del Sol (Plan 500),6
+2059,126,4010131,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U. Esc. Hijos Del Sol (Plan 500),7
+2059,126,4010141,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U. Esc. Hijos Del Sol (Plan 500),8
+2059,126,4010151,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U. Esc. Hijos Del Sol (Plan 500),9
+2059,25030,4010181,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U. E. Hijos Del Sol II,1
+2059,25030,4010191,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,U. E. Hijos Del Sol II,2
+2059,121,4010511,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Esc. Juan Pablo,13
+2059,121,4010521,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Esc. Juan Pablo,14
+2059,121,4010531,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Esc. Juan Pablo,15
+2059,121,4010541,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Esc. Juan Pablo,16
+2059,121,4010551,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Esc. Juan Pablo,17
+2059,121,4010561,32,BOLIVIA,4,Oruro,30,0,1,Cercado                                 ,1,Oruro,Oruro,Esc. Juan Pablo,18
+2680,1,6000721,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Nacional San Luis,1
+2680,1,6000731,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Nacional San Luis,2
+2680,1,6000741,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Nacional San Luis,3
+2680,1,6000751,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Nacional San Luis,4
+2680,1,6000761,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Nacional San Luis,5
+2680,1,6000771,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Nacional San Luis,6
+2680,1,6000781,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Nacional San Luis,7
+2680,1,6000791,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Nacional San Luis,8
+2680,1,6000801,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Nacional San Luis,9
+2680,56,6000811,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Narciso Campero,1
+2680,56,6000821,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Narciso Campero,2
+2680,56,6000831,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Narciso Campero,3
+2680,56,6000841,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Narciso Campero,4
+2680,5,6000851,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. San Roque,1
+2680,5,6000861,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. San Roque,2
+2680,5,6000871,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. San Roque,3
+2680,5,6000881,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. San Roque,4
+2680,5,6000891,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. San Roque,5
+2680,5,6000901,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. San Roque,6
+2680,5,6000911,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. San Roque,7
+2680,5,6000921,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. San Roque,8
+2680,5,6000931,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. San Roque,9
+2680,5,6000941,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. San Roque,10
+2680,5,6000951,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. San Roque,11
+2680,5,6000961,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. San Roque,12
+2680,5,6000971,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. San Roque,13
+2680,31055,6000991,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,Coliseo San Roque,1
+2680,31055,6001001,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,Coliseo San Roque,2
+2680,31055,6001011,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,Coliseo San Roque,3
+2680,31055,6001021,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,Coliseo San Roque,4
+2680,31055,6001031,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,Coliseo San Roque,5
+2680,31055,6001041,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,Coliseo San Roque,6
+2680,31055,6001061,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,Coliseo San Roque,8
+2680,31055,6001071,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,Coliseo San Roque,9
+2680,31055,6001081,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,Coliseo San Roque,10
+2680,31055,6001091,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,Coliseo San Roque,11
+2680,31055,6001101,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,Coliseo San Roque,12
+2680,2,6001111,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Maria Laura Justiniano,1
+2680,2,6001121,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Maria Laura Justiniano,2
+2680,2,6001131,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Maria Laura Justiniano,3
+2680,2,6001151,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Maria Laura Justiniano,5
+2680,2,6001171,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Maria Laura Justiniano,7
+2680,2,6001181,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Maria Laura Justiniano,8
+2680,2,6001191,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Maria Laura Justiniano,9
+2680,4,6001261,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Rosa Arce,1
+2680,4,6001271,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Rosa Arce,2
+2680,4,6001281,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Rosa Arce,3
+2680,4,6001291,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Rosa Arce,4
+2680,4,6001301,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Rosa Arce,5
+2680,4,6001321,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Rosa Arce,7
+2680,4,6001331,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Rosa Arce,8
+2680,4,6001341,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Rosa Arce,9
+2680,4,6001351,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Rosa Arce,10
+2680,8,6001361,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Carmen Echazu,1
+2680,8,6001371,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Carmen Echazu,2
+2680,8,6001381,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Carmen Echazu,3
+2680,8,6001391,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Carmen Echazu,4
+2680,8,6001401,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Carmen Echazu,5
+2680,8,6001411,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Carmen Echazu,6
+2680,8,6001421,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Carmen Echazu,7
+2680,100,6001781,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,C.E.B.A.,9
+2680,100,6001791,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,C.E.B.A.,10
+2680,32339,6001861,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. José María Velaz 1,1
+2680,25714,6001871,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Aniceto Arce,1
+2680,25714,6001881,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Aniceto Arce,2
+2680,25714,6001891,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Aniceto Arce,3
+2680,6,6001941,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Avelina Raña,1
+2680,6,6001951,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Avelina Raña,2
+2680,6,6001961,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Avelina Raña,3
+2680,6,6001971,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Avelina Raña,4
+2680,6,6001981,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Avelina Raña,5
+2680,6,6001991,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Avelina Raña,6
+2680,6,6002001,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Avelina Raña,7
+2680,6,6002011,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Avelina Raña,8
+2680,6,6002021,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Avelina Raña,9
+2680,6,6002031,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Avelina Raña,10
+2680,6,6002041,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Avelina Raña,11
+2680,6,6002051,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Avelina Raña,12
+2680,6,6002061,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Avelina Raña,13
+2680,99,6002671,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Nuestra Señora Del Rosario,1
+2680,99,6002681,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Nuestra Señora Del Rosario,2
+2680,99,6002691,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Nuestra Señora Del Rosario,3
+2680,99,6002701,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Nuestra Señora Del Rosario,4
+2680,99,6002711,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Nuestra Señora Del Rosario,5
+2680,99,6002721,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Nuestra Señora Del Rosario,6
+2680,99,6002731,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Nuestra Señora Del Rosario,7
+2680,99,6002741,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Nuestra Señora Del Rosario,8
+2680,99,6002751,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Nuestra Señora Del Rosario,9
+2680,99,6002761,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Nuestra Señora Del Rosario,10
+2680,99,6002771,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Nuestra Señora Del Rosario,11
+2680,99,6002781,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Nuestra Señora Del Rosario,12
+2680,99,6002791,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Nuestra Señora Del Rosario,13
+2680,99,6002801,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Nuestra Señora Del Rosario,14
+2680,110,6003801,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Jose Manuel Avila,2
+2680,110,6003811,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Jose Manuel Avila,3
+2680,110,6003911,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Jose Manuel Avila,13
+2680,110,6003921,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Jose Manuel Avila,14
+2680,32142,6003991,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U. E. José Manuel Ávila 3 (KINDER),1
+2680,32142,6004001,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U. E. José Manuel Ávila 3 (KINDER),2
+2680,32142,6004011,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U. E. José Manuel Ávila 3 (KINDER),3
+2680,89,6004841,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. La Paz,7
+2680,89,6004851,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. La Paz,8
+2680,89,6004881,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. La Paz,11
+2680,89,6004911,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. La Paz,14
+2680,89,6004971,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. La Paz,20
+2680,89,6004981,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. La Paz,21
+2680,31057,6005611,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Hno. Felipe Palazon,1
+2680,31057,6005621,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Hno. Felipe Palazon,2
+2680,31057,6005631,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Hno. Felipe Palazon,3
+2680,31057,6005641,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Hno. Felipe Palazon,4
+2680,31057,6005651,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Hno. Felipe Palazon,5
+2680,31057,6005661,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Hno. Felipe Palazon,6
+2680,31057,6005671,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Hno. Felipe Palazon,7
+2680,31057,6005681,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Hno. Felipe Palazon,8
+2680,31057,6005691,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Hno. Felipe Palazon,9
+2680,78,6005891,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,(Cárcel) Penal de Morros Blancos,1
+2680,78,6005901,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,(Cárcel) Penal de Morros Blancos,2
+2680,78,6005911,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,(Cárcel) Penal de Morros Blancos,3
+2680,32338,6006311,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Andalucía,1
+2680,90,6006481,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Bancario,1
+2680,90,6006491,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Bancario,2
+2680,90,6006501,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Bancario,3
+2680,90,6006511,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Bancario,4
+2680,90,6006521,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Bancario,5
+2680,83,6006531,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. San Blas,1
+2680,83,6006541,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. San Blas,2
+2680,83,6006551,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. San Blas,3
+2680,83,6006561,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. San Blas,4
+2680,25710,6006571,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Carmen Mealla,1
+2680,25710,6006581,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Carmen Mealla,2
+2680,25710,6006591,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Carmen Mealla,3
+2680,25710,6006601,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Carmen Mealla,4
+2680,25710,6006611,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Carmen Mealla,5
+2680,25710,6006621,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Carmen Mealla,6
+2680,25710,6006631,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Carmen Mealla,7
+2680,25710,6006641,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Carmen Mealla,8
+2680,25548,6006651,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,Centro de Capacitacion Municipal,1
+2680,25548,6006661,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,Centro de Capacitacion Municipal,2
+2680,25548,6006671,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,Centro de Capacitacion Municipal,3
+2680,25548,6006681,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,Centro de Capacitacion Municipal,4
+2680,25548,6006691,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,Centro de Capacitacion Municipal,5
+2680,112,6006761,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Teresa De Calcuta,1
+2680,112,6006771,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Teresa De Calcuta,2
+2680,112,6006781,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Teresa De Calcuta,3
+2680,112,6006791,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Teresa De Calcuta,4
+2680,112,6006801,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Teresa De Calcuta,5
+2680,112,6006821,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Teresa De Calcuta,7
+2680,112,6006831,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Teresa De Calcuta,8
+2680,112,6006841,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Teresa De Calcuta,9
+2680,112,6006851,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Teresa De Calcuta,10
+2680,112,6006861,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Teresa De Calcuta,11
+2680,32414,6006871,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. San Antonio 2,1
+2680,87,6006891,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Bolivia,1
+2680,87,6006901,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Bolivia,2
+2680,87,6006911,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Bolivia,3
+2680,87,6006921,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Bolivia,4
+2680,87,6006931,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Bolivia,5
+2680,87,6006951,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Bolivia,7
+2680,87,6006961,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Bolivia,8
+2680,87,6006971,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Bolivia,9
+2680,87,6006981,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Bolivia,10
+2680,87,6006991,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Bolivia,11
+2680,87,6007011,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Bolivia,13
+2680,87,6007021,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Bolivia,14
+2680,87,6007031,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Bolivia,15
+2680,31061,6007281,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,Centro de educación Especial El Refugio,1
+2680,31061,6007291,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,Centro de educación Especial El Refugio,2
+2680,31061,6007301,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,Centro de educación Especial El Refugio,3
+2680,31061,6007311,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,Centro de educación Especial El Refugio,4
+2680,31061,6007321,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,Centro de educación Especial El Refugio,5
+2680,26475,6007691,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Valle Hermoso,2
+2680,26475,6007701,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Valle Hermoso,3
+2680,26475,6007711,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Valle Hermoso,4
+2680,26475,6007721,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Valle Hermoso,5
+2680,26475,6007731,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Valle Hermoso,6
+2680,26477,6007741,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Los Laureles,1
+2680,26477,6007751,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Los Laureles,2
+2680,26477,6007761,32,BOLIVIA,6,Tarija,40,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Los Laureles,3
+2680,84,6007771,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. 6 de Junio,1
+2680,84,6007781,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. 6 de Junio,2
+2680,84,6007791,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. 6 de Junio,3
+2680,84,6007801,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. 6 de Junio,4
+2680,84,6007811,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. 6 de Junio,5
+2680,84,6007821,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. 6 de Junio,6
+2680,84,6007831,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. 6 de Junio,7
+2680,84,6007841,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. 6 de Junio,8
+2680,26476,6007851,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Moto Mendez,1
+2680,26476,6007861,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Moto Mendez,2
+2680,26476,6007871,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Moto Mendez,3
+2680,26476,6007881,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. Moto Mendez,4
+2680,77,6007891,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. El Portillo,1
+2680,77,6007901,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. El Portillo,2
+2680,77,6007911,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. El Portillo,3
+2680,77,6007921,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. El Portillo,4
+2680,77,6007931,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. El Portillo,5
+2680,77,6007941,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. El Portillo,6
+2680,77,6007951,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. El Portillo,7
+2680,77,6007961,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. El Portillo,8
+2680,77,6007971,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. El Portillo,9
+2680,77,6007981,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. El Portillo,10
+2680,77,6007991,32,BOLIVIA,6,Tarija,41,0,1,Cercado                                 ,1,Tarija,Tarija,U.E. El Portillo,11
+2773,12,9000021,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U.E. German Busch,1
+2773,12,9000031,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U.E. German Busch,2
+2773,12,9000041,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U.E. German Busch,3
+2773,12,9000051,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U.E. German Busch,4
+2773,12,9000061,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U.E. German Busch,5
+2773,12,9000071,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U.E. German Busch,6
+2773,26074,9000181,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U. E. Abaroa,1
+2773,26074,9000191,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U. E. Abaroa,2
+2773,11,9000251,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U. E. 11 de Octubre,6
+2773,11,9000281,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U. E. 11 de Octubre,9
+2773,11,9000291,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U. E. 11 de Octubre,10
+2773,11,9000301,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U. E. 11 de Octubre,11
+2773,11,9000311,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U. E. 11 de Octubre,12
+2773,25029,9000321,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U. E. Mariscal Sucre,1
+2773,25029,9000341,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U. E. Mariscal Sucre,3
+2773,25029,9000361,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U. E. Mariscal Sucre,5
+2773,25029,9000391,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U. E. Mariscal Sucre,8
+2773,25029,9000401,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U. E. Mariscal Sucre,9
+2773,25029,9000431,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U. E. Mariscal Sucre,12
+2773,25031,9000441,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U. E. Rogelia Menacho De Balcazar,1
+2773,25031,9000451,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U. E. Rogelia Menacho De Balcazar,2
+2773,25031,9000461,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U. E. Rogelia Menacho De Balcazar,3
+2773,25031,9000471,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U. E. Rogelia Menacho De Balcazar,4
+2773,25031,9000501,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U. E. Rogelia Menacho De Balcazar,7
+2773,25032,9000531,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U. E. José Manuel Pando,1
+2773,25032,9000541,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U. E. José Manuel Pando,2
+2773,25032,9000551,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U. E. José Manuel Pando,3
+2773,25032,9000571,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U. E. José Manuel Pando,5
+2773,25035,9000691,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U.E. Defensores Del Acre,4
+2773,25035,9000701,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U.E. Defensores Del Acre,5
+2773,25035,9000721,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U.E. Defensores Del Acre,7
+2773,25035,9000731,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U.E. Defensores Del Acre,8
+2773,25035,9000741,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U.E. Defensores Del Acre,9
+2773,25035,9000761,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U.E. Defensores Del Acre,11
+2773,25035,9000771,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U.E. Defensores Del Acre,12
+2773,26076,9000781,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U. E. Juan Evo Morales Ayma,1
+2773,26076,9000791,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U. E. Juan Evo Morales Ayma,2
+2773,5,9000841,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U. E.  America,1
+2773,5,9000851,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U. E.  America,2
+2773,5,9000861,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U. E.  America,3
+2773,5,9000871,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U. E.  America,4
+2773,25036,9001171,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U. E. Vaca Diez (Medio),3
+2773,25036,9001181,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U. E. Vaca Diez (Medio),4
+2773,25036,9001191,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U. E. Vaca Diez (Medio),5
+2773,25042,9001221,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U.E. Villa Cruz,1
+2773,25042,9001231,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U.E. Villa Cruz,2
+2773,25033,9001331,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U. E. Sofia Calpiñeiro,1
+2773,25033,9001361,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U. E. Sofia Calpiñeiro,4
+2773,26077,9001761,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U. E. Marcelo Quiroga Santa Cruz,1
+2773,26078,9001781,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U. E. Alfredo Ovando Candia,1
+2773,26078,9001791,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U. E. Alfredo Ovando Candia,2
+2773,26078,9001801,32,BOLIVIA,9,Pando,62,0,1,Nicolás Suárez,1,Cobija,Cobija,U. E. Alfredo Ovando Candia,3

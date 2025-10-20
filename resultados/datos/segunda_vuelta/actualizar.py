@@ -7,30 +7,6 @@ from io import BytesIO
 import os
 
 
-# +
-def descargar():
-    HEADERS = {
-        "accept": "application/json, text/plain, */*",
-        "content-type": "application/json",
-    }
-
-    response = requests.post(
-        "https://computo.oep.org.bo/api/v1/descargar",
-        headers=HEADERS,
-        json={"tipoArchivo": "CSV"},
-    )
-
-    date = response.json()["fecha"]
-    data = pd.read_csv(BytesIO(base64.b64decode(response.json().get("archivo"))))
-    return date, data
-
-
-date, data = descargar()
-
-
-# -
-
-
 def actualizar():
     def descargar():
         HEADERS = {

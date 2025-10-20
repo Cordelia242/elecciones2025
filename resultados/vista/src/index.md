@@ -38,10 +38,6 @@ const resultado_global = plotResultado(resultados_globales[vista], {
 ```
 
 ```js
-
-```
-
-```js
 const vueltas = ["primera", "segunda"];
 const vueltas_folder = {
   primera: "resultados/datos/",
